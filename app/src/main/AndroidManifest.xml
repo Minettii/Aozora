@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.poteto.gachiapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.GachiApp">
+        <activity
+            android:name=".activity.estudo.EstudoAntesComecarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.estudo.EstudoRecursosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".helper.DialogEstudo"
+            android:exported="false" />
+        <activity
+            android:name=".activity.estudo.EstudoParticulasForthActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.estudo.EstudoAdverbiosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.estudo.EstudoParticulasThirdActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.estudo.EstudoOrdemSentencaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.estudo.EstudoOracoesRelativasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.estudo.EstudoVerbosTransitivoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.estudo.EstudoParticulasSecondActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.estudo.EstudoVerbosPassadoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.estudo.EstudoVerbosNegativoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.estudo.EstudoVerbosBasicoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.estudo.EstudoAdjetivosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.estudo.EstudoEstadoSerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.estudo.EstudoKanjiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.estudo.EstudoKatakanaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.estudo.EstudoHiraganaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.estudo.EstudoSistemaEscritaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.estudo.EstudoIntroducaoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.flashcard.FlashcardStatisticsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.flashcard.TreinoStatisticsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.flashcard.FlashcardSessionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.flashcard.TreinoSessionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.card.CardAddDeckActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.card.CardCreateEditActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.card.CardDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.card.ShowCardsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.main.ShowDecksActivity"
+            android:exported="false"
+            android:parentActivityName=".activity.main.MainActivity" />
+        <activity
+            android:name=".activity.estudo.EstudoParticulasFirstActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.main.ConsultaActivity"
+            android:exported="false"
+            android:parentActivityName=".activity.main.MainActivity" />
+        <activity
+            android:name=".activity.main.FlashcardsActivity"
+            android:exported="false"
+            android:parentActivityName=".activity.main.MainActivity" />
+        <activity
+            android:name=".activity.main.TreinoActivity"
+            android:exported="false"
+            android:parentActivityName=".activity.main.MainActivity" />
+        <activity
+            android:name=".activity.main.EstudoActivity"
+            android:exported="false"
+            android:parentActivityName=".activity.main.MainActivity" />
+        <activity
+            android:name=".activity.main.TutorialActivity"
+            android:exported="false"
+            android:parentActivityName=".activity.main.MainActivity" />
+        <activity
+            android:name=".activity.main.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

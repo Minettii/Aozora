@@ -1,0 +1,2046 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Aozora - Aprenda Japonês</string>
+
+
+    <string name="licenseMain">O conteúdo acessado a partir desta página é proveniente do guia <a href="https://guidetojapanese.org/learn/">Tae Kim\'s Guide to Learning Japanese</a>\n
+        Este trabalho está sob licença de <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a>\n
+        Copyright © 2003-2007 Tae Kim (taekim.japanese@gmail.com)</string>
+
+    <string name="licenseDalisson">O conteúdo desta página é proveniente do guia <a href="https://guidetojapanese.org/learn/">Tae Kim\'s Guide to Learning Japanese</a>\n
+        Este trabalho está sob licença de <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a>\n
+        Copyright © 2003-2007 Tae Kim (taekim.japanese@gmail.com)\n
+        Portuguese Translation by Dalisson C. A. Figueiredo</string>
+
+    <string name="licenseIsrael">O conteúdo desta página é proveniente do guia <a href="https://guidetojapanese.org/learn/">Tae Kim\'s Guide to Learning Japanese</a>\n
+        Este trabalho está sob licença de <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a>\n
+        Copyright © 2003-2007 Tae Kim (taekim.japanese@gmail.com)\n
+        Portuguese Translation by Israel G. Crisanto</string>
+
+    <string name="licenseGuilherme">O conteúdo desta página é proveniente do guia <a href="https://guidetojapanese.org/learn/">Tae Kim\'s Guide to Learning Japanese</a>\n
+        Este trabalho está sob licença de <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a>\n
+        Copyright © 2003-2007 Tae Kim (taekim.japanese@gmail.com)\n
+        Portuguese Translation by Guilherme Kiyohara</string>
+
+    <string name="licenseJayme">O conteúdo desta página é proveniente do guia <a href="https://guidetojapanese.org/learn/">Tae Kim\'s Guide to Learning Japanese</a>\n
+        Este trabalho está sob licença de <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a>\n
+        Copyright © 2003-2007 Tae Kim (taekim.japanese@gmail.com)\n
+        Portuguese Translation by Jayme Sanches Filho.</string>
+
+    <string name="licenseGiovanni">O conteúdo desta página é proveniente do guia <a href="https://guidetojapanese.org/learn/">Tae Kim\'s Guide to Learning Japanese</a>\n
+        Este trabalho está sob licença de <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a>\n
+        Copyright © 2003-2007 Tae Kim (taekim.japanese@gmail.com)\n
+        Traduzido para Português por Giovanni Mota Brigati.</string>
+
+    <string name="licenseJapaoPop">O conteúdo desta página é proveniente do guia <a href="https://guidetojapanese.org/learn/">Tae Kim\'s Guide to Learning Japanese</a>\n
+        Este trabalho está sob licença de <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a>\n
+        Copyright © 2003-2007 Tae Kim (taekim.japanese@gmail.com)\n
+        Traduzido para Português por <a href="https://discord.gg/YyQxkzYfJh">Japão Pop</a>.</string>
+
+    <!-- TITLES -->
+    <string name="estudo1"> 1. <u>Introdução</u></string>
+    <string name="estudo2"> 2. <u>Recursos Úteis</u></string>
+    <string name="estudo3"> 3. <u>Antes de Começar</u></string>
+    <string name="estudo4"> 4. <u>Sistema de Escrita</u></string>
+    <string name="estudo5"> 5. <u>Hiragana</u></string>
+    <string name="estudo6"> 6. <u>Katakana</u></string>
+    <string name="estudo7"> 7. <u>Kanji</u></string>
+    <string name="estudo8"> 8. <u>Expressando o Estado-de-ser</u></string>
+    <string name="estudo9"> 9. <u>Introdução às Partículas (は、も、が)</u></string>
+    <string name="estudo10">10. <u>Adjetivos</u></string>
+    <string name="estudo11">11. <u>Básico sobre Verbos</u></string>
+    <string name="estudo12">12. <u>Verbos Negativo</u></string>
+    <string name="estudo13">13. <u>Verbos Pretérito</u></string>
+    <string name="estudo14">14. <u>Partículas usadas com verbos (を、に、へ、で)</u></string>
+    <string name="estudo15">15. <u>Verbos Transitivos e Intransitivos</u></string>
+    <string name="estudo16">16. <u>Oração Subordinada Descritiva</u></string>
+    <string name="estudo17">17. <u>Ordem das Sentenças</u></string>
+    <string name="estudo18">18. <u>Partículas relacionadas com Substantivos (と、や、とか、の)</u></string>
+    <string name="estudo19">19. <u>Advérbios</u></string>
+    <string name="estudo20">20. <u>Partículas de Fim de Sentença (ね、よ、よね)</u></string>
+
+    <string name="titleEstudo1">Introdução</string>
+    <string name="titleEstudo2">Recursos Úteis</string>
+    <string name="titleEstudo3">Antes de Começar</string>
+    <string name="titleEstudo4">Sistema de Escrita</string>
+    <string name="titleEstudo5">Hiragana</string>
+    <string name="titleEstudo6">Katakana</string>
+    <string name="titleEstudo7">Kanji</string>
+    <string name="titleEstudo8">Expressando o Estado-de-ser</string>
+    <string name="titleEstudo9">Introdução às Partículas (は、も、が)</string>
+    <string name="titleEstudo10">Adjetivos</string>
+    <string name="titleEstudo11">Básico sobre Verbos</string>
+    <string name="titleEstudo12">Verbos Negativo</string>
+    <string name="titleEstudo13">Verbos Pretérito</string>
+    <string name="titleEstudo14">Partículas usadas com verbos (を、に、へ、で)</string>
+    <string name="titleEstudo15">Verbos Transitivos e Intransitivos</string>
+    <string name="titleEstudo16">Oração Subordinada Descritiva</string>
+    <string name="titleEstudo17">Ordem das Sentenças</string>
+    <string name="titleEstudo18">Partículas relacionadas com Substantivos (と、や、とか、の)</string>
+    <string name="titleEstudo19">Advérbios</string>
+    <string name="titleEstudo20">Partículas de Fim-de-Sentença (ね、よ、よね)</string>
+
+
+    <!-- TEXTS -->
+//0
+    <string name="textTutorial">
+        Nesta página...
+    </string>
+//
+
+//1
+    <string name="textEstudo1">
+        <font color="#0F305C"><big><b><u>Introdução aos Estudos</u></b></big></font>\n\n
+
+Nesta página será apresentada a seção \"Estudo\" deste aplicativo, assim como também serão propostas dicas sobre como iniciar seu estudo e aprendizado da Língua Japonesa.\n\n
+
+Na seção \"Estudo\" serão apresentados e explicados os fundamentos da língua japonesa, desde o sistema de escrita à gramática. A gramática da língua japonesa difere da língua portuguesa em diversos aspectos, como por exemplo na estrutura de suas sentenças e conjugação de verbos, além do fato de que o japonês não possui flexão . Ademais, no idioma japonês existem as partículas gramaticais \“joshi\”, representadas por um ou mais caracteres do hiragana que seguem uma palavra e servem para sinalizar a função gramatical dessa palavra (ou expressão) na sentença . Por exemplo, a partícula \"か\" é usada no final de sentenças para indicar que a sentença que lhe precede é uma pergunta.\n\n
+
+Diferentemente do português, cuja escrita utiliza somente o alfabeto latino, o sistema de escrita da língua japonesa é composto por quatro tipos de caracteres, sendo um deles o alfabeto latino, chamado de \“rōmaji\” (traduzido literalmente para caractere romano). Outros dois tipos de caracteres são o \“Hiragana\” e o “Katakana”, ambos são representados por alfabetos fonéticos, onde cada caractere representa uma sílaba. Finalmente, o último tipo de caractere do sistema de escrita japonês é o \“Kanji\” (traduzido literalmente para caractere chinês), composto por caracteres de origem chinesa que são usados para formar a escrita de grande parte do vocabulário japonês, frequentemente estando acompanhados de caracteres do hiragana.\n\n
+
+Neste aplicativo será enfatizado o aprendizado da gramática, do sistema de escrita e aquisição de vocabulário da língua japonesa, os quais são pontos fundamentais, necessários e complementares entre si, pois não vale de nada saber as regras do idioma e não reconhecer mais do que dez palavras, ou ainda ter um vasto conhecimento do vocabulário porém não saber formular frases ou entender o significado de uma sentença.\n\n
+
+        Além desses três pontos, as habilidades de ouvir e falar também são importantes no aprendizado de uma língua, porém estas habilidades não são muito trabalhadas neste aplicativo, que tem o foco na gramática, do sistema de escrita e aquisição de vocabulário, portanto é recomendado que sempre que possível, o estudante tente se imergir em conteúdos no idioma japonês, seja assistindo vídeos, filmes ou animes, lendo livros, mangás, notícias ou qualquer outra coisa em japonês (pode ser algo complicado no início, quando não se possui um vocabulário muito amplo, porém é uma ótima forma de aprender novas palavras e expressões, além de ver em uso o conteúdo que você já aprendeu). \n\n
+
+Praticar o que já foi aprendido é fundamental, então sempre que você aprender algo novo, tome notas explicando o que você entendeu com suas palavras para que você sempre possa revisar, além disso sempre que for necessário, caso haja uma dúvida ou esquecimento, volte e consulte o tópico em que você está com problema. Uma ótima forma de gravar na memória uma nova palavra ou expressão que você aprendeu é tentar escrevê-la, além disso, sempre que possível, adicione essas palavras à um deck deste aplicativo, para que você possa revisar essa palavra usando o estudo de flashcards agendados, que irá tomar conta de agendar revisões desse cartão para que você não o esqueça. \n\n
+
+Antes de começar a adquirir vocabulário, é recomendado que os sistemas de escrita Hiragana e Katakana tenham sido aprendidos, além de ter um entendimento sobre o que é o Kanji (não é exatamente necessário que todos os caracteres destes alfabetos sejam memorizados antes de começar a aprender o vocabulário, mas pelo menos, entender para que cada alfabeto é usado, conseguir distinguir a maioria dos caracteres e poder identificar se um caractere com o qual você se deparou é um Hiragana, Katakana ou Kanji. Essa recomendação se deve ao fato de que neste aplicativo é fortemente recomendado o uso do sistema de escrita japonês para representar as palavras japonesas, pois não adianta aprender como é escrita uma palavra japonesa usando o alfabeto latino, já que em prática isso praticamente nunca ocorre e quando você se deparar com essa palavra sendo usada em um texto japonês você não conseguirá distingui-la e será necessário recorrer à um dicionário ou tradutor.\n\n
+        Logo, para evitar de você aprender uma palavra e depois ter que voltar para aprender sua escrita eu recomendo que você aprenda como escrever esta palavra no momento em que você aprender seu significado, porém para isso é necessário um conhecimento básico dos sistemas de escrita, mesmo que você ainda precise consultar o material para distinguir um caractere ou outro ou para se relembrar como escrevê-lo.\n\n
+
+Portanto, caso seja um iniciante no estudo da língua japonesa, recomendo que primeiramente prossiga estudando os tópicos apresentados na seção de \"Estudo\" deste aplicativo pelo menos até o tópico \"7.Kanji\", a partir daí você pode começar a aprender primeiramente o alfabeto Hiragana e em seguida o Katakana, enquanto os kanjis podem ser aprendidos com os vocabulários.\n\n
+
+        Após concluir o tópico \"7.Kanji\" eu recomendo que você comece a estudar usando a seção "Flashcard", aprendendo uma quantidade fixa de cartões novos por dia, por exemplo, entre 10 e 20 cartões novos por dia são uma boa quantidade para começar, e então, nos dias seguintes você pode começar a aumentar ou diminuir a quantidade de cartões novos que você aprende a cada dia, porém não recomendo que muitos cartões novos sejam estudados de uma só vez, pois isso pode gerar uma grande quantidade de cartões agendados para revisão nos próximos dias, e é menos provável que você se lembre de um cartão que foi aprendido junto com outros 50 cartões, então a recomendação é que: caso sua quantidade e qualidade das revisões esteja boa (um número de revisões que você consiga revisar todos os cartões que foram agendados para o dia e que você se lembre da maioria desses cartões) então você pode aumentar um pouco a quantidade de novos cartões vistos, caso contrário diminua a quantidade ou pare de adicionar cartões até que você esteja conseguindo realizar satisfatóriamente as revisões agendadas.\n\n
+
+A seção "Treino" é uma boa forma de ver cartões novos sem se atolar em meio a um número enorme de revisões agendadas, pois os cartões vistos lá não são agendados. Você pode escolher uma quantidade de cartões de um deck para estudar, podendo escolher entre todos os cartões, incluindo os cartões novos que você ainda não aprendeu no \"Flashcard\" (seção de estudo com revisão agendada), ou pode ainda selecionar treinar apenas os cartões aprendidos, que são aqueles que você já aprendeu no \"Flashcard\".\n\n
+
+Sobre os decks, enquanto você pode treinar qualquer deck, eu recomendo que primeiramente você estude na seção \"Flashcard\" apenas os deck Hiragana e Katakana até que você tenha pelo menos visto os 46 caracteres que formam cada um destes dois alfabetos, então você pode começar a aprender o vocabulário, principalmente a partir do deck original "Vocabulário" no início, pois os cartões deste deck são introduzidos em uma ordem que prioriza apresentar primeiro as palavras mais simples e comuns.\n\n
+
+        Também recomendo que você faça uso dos decks pessoais, nos quais você pode criar e adicionar cartões, então crie decks quando for necessário e adicione nele cartões que você gostaria de estudar em "Treino" ou "Flashcard", ou caso apenas queira que este cartão seja exibido na seção "Consulta". Por exemplo, você pode criar um deck chamado "Cartões difíceis" onde você pode adicionar cartões que você respondeu incorretamente no "Treino" ou cartões que foram esquecidos em uma revisão em "Flashcard", cartões podem ser facilmente adicionados ao final dessas duas sessões de estudo, onde é exibida uma lista de estatísticas que lhe permite clicar nos cartões vistos na sessão e adicioná-los em outros decks. Outras boas ideias de decks seriam \"Livro:xxx\", \"Anime:yyy\" ou \"Palavras novas\", onde você poderia ter um deck onde você adiciona as palavras que você aprendeu lendo um livro, ou um deck onde você adiciona novas palavras que você aprendeu de qualquer lugar.\n\n
+
+É isso, no próximo tópico, \"2.Recursos Úteis\", você verá recomendações de materias que podem auxiliar seu aprendizado e a partir dos próximos tópicos já iniciará o estudo da língua japonesa. Boa sorte e se esforce nos estudos!
+    </string>
+//
+
+//2
+    <!--hyperlink below-->
+    <string name="textEstudo2">
+        <font color="#0F305C"><big><b><u>Recursos Úteis para o estudo da Língua Japonesa</u></b></big></font>\n\n
+
+Nesta seção há uma lista com aplicativos e websites que podem ser usados para auxiliar o estudo e aprendizado da língua japonesa. Cada listado pode ser acessado ao clicar no seu nome sublinhado, além disso, junto de cada uma dessas recomendações há uma descrição sobre as funções e conteúdos que o recurso oferece.\n\n
+A maioria desses recursos podem ser acessados offline após serem baixados e caso haja um recurso que necessite de internet isso será explicito em sua descrição. Sinta-se livre para utilizar outros recursos e materiais de estudo além deste aplicativo e os recursos citados abaixo. Há diversos recursos que podem ser usados para uma mesma finalidade, como dicionários, materiais para o aprendizado dos sistemas de escrita ou gramática, tradutores, entre outros... Então teste os recursos que achar interessante e escolha os que mais lhe agradarem.\n\n\n
+
+
+<font color="#0F305C"><b><big><u><a href="https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&amp;hl=pt&amp;gl=BR">1. Gboard</a></u></big></b></font>\n\n
+    Para que seja possível criar e editar cartões deste aplicativo com textos em japonês, é altamente recomendável que seja usado um teclado que suporte a língua japonesa. Gboard é o Teclado do Google e após instalá-lo e configurá-lo é possível facilmente alternar entre a língua portuguesa ou a língua japonesa sempre que for necessário digitar algo.\n\n
+
+    Após instalar o teclado e abri-lo é mostrado sua tela de configuração, onde você pode ativar este teclado em seu dispositivo e então adicionar línguagens e layouts. Recomendo que adicione a língua japonesa com o Layout \"QWERTY\". Para mais informações sobre a instalação e configuração deste teclado acesse este <font color="#0F305C"><b><u><a href="https://support.google.com/gboard/answer/7068494?hl=pt-BR&amp;co=GENIE.Platform%3DAndroid&amp;oco=0">website</a></u></b></font>.\n\n
+
+    Dicas: Após instalar e configurar o teclado, a linguagem pode ser trocada ao abrir o teclado (em qualquer aplicativo ou qualquer local em que algo possa ser digitado), apertando o botão do lado esquerdo da barra de espaço (com o desenho de um globo). Após selecionar o idioma japonês, seu texto será automaticamente convertido para hiragana enquanto digita (Ex.: ao digitar \"ka\", será convertido para \"か\" e acima do teclado serão exibidas opções de kanjis e palavras que correspondem ao que você digitou (Ex.: Ao digitar \"Kanji\", seu texto se tornará \"かんじ\" e você receberá recomendações como \"漢字、感じ、カンジ、感じる\" acima do teclado. Além disso, caso queira inserir o caractere \"ん\", basta digitar \"nn\", ou caso queira escrever uma palavra que tem um tsu(つ) pequeno, basta digitar duas vezes a consoante que procede o tsu, por exemplo: \"もっと\" é digitado \"motto\", ou ainda você pode tornar qualquer caractere pequeno ao precedê-lo por um \"x\", por exemplo, é possível ver a diferença em: \"axatuxtu\" que se torna \"あぁつっ\".\n\n\n
+
+
+<font color="#0F305C"><b><big><u><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.translate&amp;hl=pt&amp;gl=BR">2. Google Tradutor</a></u></big></b></font>\n\n
+
+    Este aplicativo é um tradutor que pode ser usado até mesmo offline. Após fazer o download das linguagens desejadas (recomendo português, japonês e inglês) é possível fazer traduções entre os idiomas baixados, além de ser possível usar a função de escutar o texto, o que pode ser útil para verificar as pronúncias. Para mais informações sobre o download de idiomas para o uso offline acesse este <font color="#0F305C"><b><u><a href="https://support.google.com/translate/answer/6142473?hl=pt-PT">website</a></u></b></font>.\n\n
+    O aplicativo também tem a função de escrita à mão, onde você pode desenhar um caractere, caso não consiga inserí-lo normalmente pelo teclado (por exemplo, caso você queira saber a tradução de uma palavra escrita com kanji, mas você não saiba a leitura do kanji, você pode desenhá-lo), porém esta função só funciona cajo haja conexão à internet e mais informações podem ser vistas neste <font color="#0F305C"><b><u><a href="https://support.google.com/translate/answer/6142469?hl=pt-br&amp;ref_topic=7011659&amp;co=GENIE.Platform%3DAndroid&amp;oco=1">website</a></u></b></font>..
+
+    \n\n\n
+
+
+<font color="#0F305C"><b><big><u><a href="https://play.google.com/store/apps/details?id=com.deepl.mobiletranslator&amp;hl=pt&amp;gl=BR">3. Tradutor DeepL</a></u></big></b></font>\n\n
+
+    Este aplicativo é um tradutor que necessita de conexão à internet para funcionar. Você pode escolher entre este tradutor ou o do Google após testas ambos e decidir qual lhe agrada mais, ou pode ainda usá-los em conjuntosa. Por exemplo, caso traduza uma frase neste aplicativo e queira confirmar a acuracidade da tradução, tente traduzir a mesma frase pelo Google Tradutor e comparar as traduções.
+    \n\n\n
+
+
+<font color="#0F305C"><b><big><u><a href="https://play.google.com/store/apps/details?id=jp.takoboto&amp;hl=pt\&amp;gl=BR">4. Japanese Dictionary Takoboto</a></u></big></b></font>\n\n
+
+    O Takoboto é um dicionário Offline Inglês-Japonês, apesar de também possuir a possibilidade de ativar o idioma português (tendo em mente que atualmente apenas 19% das traduções do dicionário estão disponíveis neste idioma, então recomendo deixar ativos os idiomas português e inglês, de forma que caso não haja tradução para o português, ela seja exibida em inglês).\n\n
+
+    Uma das utilidades deste aplicativo é a função de procurar um kanji a partir de seus radicais (um radical é um elemento da escrita de um kanji, por exemplo, o kanji 畑 é constituído dos radicais 火 e 田). Esta função pode ser acessada ao clicar no botão \"字\" na parte superior direita da tela, ao lado do campo de pesquisa, e então será exibida uma listagem com diversos radicais que podem ser selecionados e combinados.\n\n
+
+    Ao pesquisar uma palavra em inglês ou japonês e selecionar uma das palavras exibidas após a busca você tem acesso à sua tradução (que pode estar em inglês, então caso seja necessário, um dos tradutores pode ser usado para auxiliar a tradução para o português), além de uma aba que exibe os kanjis (essa função é muito útil, e mostra também como escrever o kanji, exibindo a quantidade, ordem e sentido (o traço sempre começa do círculo) dos traços usados para desenhar o kanji). Há também uma aba que mostra as conjugações da palavra selecionada, caso ela seja um verbo ou adjetivo, e finalmente, há uma aba de frases que mostram a palavra selecionada em meio à uma frase de exemplo, juntamente da tradução deste frase, de forma a possibilitar o entendimento do uso desta palavra contextualizada em meio à uma frase (novamente, a maioria das traduções de frases estão em inglês, então pode ser necessário o uso de tradutores).\n\n
+    Nota: Para adicionar idiomas ao aplicativo: A partir da tela iniciar, basta clicar nos três pontinhos localizados no canto superior direito, então selecionar \"Settings\" e finalemente \"Translation languages\", a partir desta tela basta clicar no idioma que queira baixar (Eu recomendo que deixe ativo os idiomas português e inglês, e que após terminar de baixar o portugûes, clique em cima de \"Português\", então selecione \"Move to position...\" e selecione \"1\", assim tornando o português a linguagem preferencial para a exibição das traduções.\n\n\n
+
+
+<font color="#0F305C"><b><big><u><a href="https://play.google.com/store/apps/details?id=ric.Jsho&amp;hl=pt&amp;gl=BR">5. Jsho - Japanese Dictionary</a></u></big></b></font>\n\n
+
+    Jsho (pronunciado jisho) é outro dicionário Offline -Inglês-Japônes que aceita pesquisas a partir do idioma inglês ou japonês (Você deve selecionar o idioma clicando na imagem da bandeira no canto superior). Além disso, o aplicativo também possui a função de busca de kanjis por radicais (acessada a partir do canto superior, no botão à direita da bandeira). Ao pesquisar uma palavra é mostrada uma lista com as palavras do dicionário que correspondem à pesquisa, junto com a classe gramatical da palavra. Essa função é muito útil, por exemplo, para descobrir se um verbo é classificado como \"verbo-ru\" ou \"verbo-u\", ou ainda se o verbo é transitivo ou intransitivo(esses temas da gramática japonesa serão abordados e explicados dentro da seção \"Estudo\" deste aplicativo).\n\n\n
+
+
+<font color="#0F305C"><b><big><u><a href="https://tatoeba.org/pt-br/sentences/search?from=jpn&amp;to=por">6. Tatoeba</a></u></big></b></font>\n\n
+
+    Este site exibe frases em Japonês traduzidas para o Português e é necessário uma conexão à internet para acessá-lo. Neste site você pode pesquisar uma palavra ou expressão japonesa e serão exibidas frases em japonês que contenham esta palavra ou expressão, juntamente com a tradução da frase para o português, sendo assim uma ótima ferramenta para entender melhor como uma certa palavra ou expressão é usada dentro de uma frase.\n\n
+    Nota: Este site também pode ser configurado para mostrar frases que tenham tradução para outros idiomas, como o inglês por exemplo, ou ainda mostrar todas as frases que possuam aquela palavra ou expressão, independentemente do idioma da tradução, de modo que pode resultar em um número maior de frases de exemplo. \n\n\n
+
+
+<font color="#0F305C"><b><big><u><a href="https://www.coscom.co.jp/hiragana-katakana/kanatable-j.html">7. CosCom - Pronunciação do Hiragana/Katakana</a></u></big></b></font>\n\n
+
+    Neste site são exibidos todos os caracteres que compõem o Hiragana e Katakana, juntamente de botões que podem ser pressionados para reproduzir a pronunciação dos caracteres fonéticos. Para acessar este site é necessário uma conexão à internet.\n\n\n
+
+
+<font color="#0F305C"><b><big><u><a href="http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf">8. Japanese-Lesson: Escrita dos Hiragana</a></u></big></b></font>\n\n
+
+    Neste site é exibido um arquivo .pdf que pode ser baixado e acessado offline posteriormente. O conteúdo deste arquivo são todos os caracteres que compõem o alfabéto Hiragana, onde é exibido o passo a passo da maneira correta de se desenhar cada caractere, mostrando quantos e quais traços, além da direção dos traços que devem ser desenhados para representar um caractere.\n\n\n
+
+
+<font color="#0F305C"><b><big><u><a href="http://japanese-lesson.com/resources/pdf/characters/katakana_writing_practice_sheets.pdf">9. Japanese-Lesson: Escrita dos Katakana</a></u></big></b></font>\n\n
+
+    Neste site é exibido um arquivo .pdf que pode ser baixado e acessado offline posteriormente. O conteúdo deste arquivo são todos os caracteres que compõem o alfabéto Katakana, onde é exibido o passo a passo da maneira correta de se desenhar cada caractere, mostrando quantos e quais traços, além da direção dos traços que devem ser desenhados para representar o caractere.\n\n\n
+
+
+<font color="#0F305C"><b><big><u><a href="https://play.google.com/store/apps/details?id=com.Obenkyo&amp;hl=pt&amp;gl=BR">10. Obenkyo</a></u></big></b></font>\n\n
+
+    Este aplicativo possui diversos conteúdos interessantes para o estudo da língua japonesa. Vale a pena citar a função \"Estudar\" dos temas \"Hiragana\", \"Katakana\" e \"Kanji\", onde após selecionar um caractere é possível ver uma animação mostrando como é feita sua escrita, além de também possuir a opção de você mesmo desenhar o caractere seguindo os passos que o aplicativo indica, de maneira a treinar sua escrita.
+    </string>
+//
+
+//3
+    <string name="textEstudo3">
+        Este guia explica a gramática japonesa em um processo sistemático,passo-a-passo, por meio de
+        explicações que são focadas em como fazer sentido não de um ponto de vista da língua portuguesa, mas de um ponto de vista da língua japonesa.\n\n
+        <b>※NOTA:</b> Em meio ao texto você verá meio-colchetes como estes:<b>「」</b>, eles são a versão japonesa das aspas.\n\n\n
+
+        <font color="#00008B"><big><b><u>O problema com os livros convencionais</u></b></big></font>\n\n
+
+        O problema com os livros convencionais é que muitas eles vezes têm os seguintes objetivos:\n\n
+            1. Eles querem que os leitores sejam capazes de usar japonês funcional e polido o mais rápido possível.\n
+            2. Eles não querem assustar os leitores com as terríveis escritas japonesas e caracteres Chineses.\n
+            3. Eles querem ensinar como dizer frases do Português em Japonês.\n\n
+
+        Normalmente os livros de linguagens românicas como o Espanhol, não apresentam nenhum destes problemas devido à similaridade com o
+        Português. No entanto, como o Japonês é diferente em quase todos os aspectos inclusive nas formas fundamentais de pensar, estes problemas
+        criaram muitos dos livros confusos que você vê hoje no mercado. Eles são geralmente preenchidos com regras complicadas e incontáveis
+        números de gramáticas para frases específicas do Português. Eles também não contêm quase nenhum kanji e então quando você finalmente
+        chega ao Japão, veja! Você descobre que não consegue ler menus, mapas ou praticamente nada porque o livro decidiu que você não é esperto
+        o bastante para memorizar os caracteres Chineses.\n\n
+
+        A raiz do problema se deve ao fato que estes livros tentam ensinar Japonês com o Português. Eles querem ensinar você na primeira página
+        como dizer, “Olá, meu nome é Carlos”, mas eles não te falam sobre todas as decisões arbitrárias por trás de tudo isto. Mesmo que aprender
+        a forma polida antes da forma do dicionário não faz nenhum sentido, eles decidiram usar a forma polida. Eles também decidiram incluir o
+        sujeito, mesmo que não seja necessário e ele seja omitido a maior parte do tempo. Na realidade, a maneira mais comum de se dizer algo do
+        tipo “Meu nome é Carlos” em Japonês é dizer “é Carlos”. Isto porque a maioria das informações é deduzida do contexto e, portanto, o sujeito
+        é omitido. Mas os livros explicam a maneira de como as coisas funcionam no Japonês? Não, porque eles estão muito ocupados em te empurrar frases
+        “úteis” para se dizer de cara. Isto resulta na grande bagunça de “use isto, se quiser dizer isto”. Isto deixa o leitor com um sentimento
+        de confusão por não saber como as coisas realmente funcionam.\n\n
+
+        A solução para este problema é explicar o Japonês de um ponto de vista Japonês. Pegue o Japonês e explique como funciona; esqueça sobre
+        tentar forçar o que você quer dizer em Português para o Japonês, pois o correto é explicar as coisas de uma maneira que faça sentido em
+        Japonês. Se você precisa saber [A] para entender [B], não trate sobre [B] primeiro.\n\n\n
+
+        <font color="#00008B"><big><b><u>Um guia Japonês para aprender gramática Japonesa</u></b></big></font>\n\n
+
+        Este guia é uma tentativa para sistematicamente construir estruturas gramaticais que maquiam a língua Japonesa de uma maneira que faça
+        sentido em Japonês. Porém, ele pode não ser uma ferramenta prática para aprendizagem rápida e imediata (por exemplo, para aprender
+        frases comuns para viagem). No entanto, ele irá criar blocos gramaticais que irão resultar em uma sólida fundação gramatical. Para
+        aqueles que aprenderam Japonês pelos livros, você verá grandes diferenças em como o material é ordenado e apresentado. Isto porque
+        este guia não procura criar laços artificiais entre o Português e o Japonês pela apresentação de material de uma maneira que faça
+        sentido em Português. Ao invés disto, exemplos com traduções irão mostrar como as idéias são expressadas em Japonês, resultando em uma
+        explicação mais simples e fácil de entender.\n\n
+
+        No início, as traduções em Português dos exemplos irão também ser o mais literal possível para mostrar o significado em um sentido
+        Japonês. Isto irá freqüentemente gerar resultados gramaticalmente incorretos no Português. Por exemplo, as traduções podem não ter
+        sujeito porque o Japonês não precisa de um. Ou já que os artigos “o”, “a”, “um” e “uma” não existem em Japonês, as traduções também
+        não irão ter. E já que no Japonês não distingue entre uma ação futura e uma afirmação geral como em “Eu irei para a loja” vs. “Eu vou
+        para a loja”, nenhuma distinção será necessária. Eu espero que as explicações destes exemplos serão suficientes para indicar um sentido
+        preciso do que as sentenças significam em Japonês. Uma vez que o leitor se tornar familiar e confortável em pensar em Japonês, as
+        traduções serão menos literais para que assim façam as sentenças mais legíveis e focadas em tópicos mais avançados.\n\n
+
+        Esteja avisado que, como tudo na vida, há vantagens e desvantagens para a construção sistemática de uma fundação gramatical inteira.
+        Em japonês, os conceitos gramaticais mais essenciais são mais difíceis de entender e a maioria dos vocábulos simples são os que mais
+        tem exceções. Isto significa que a parte mais difícil da língua vem primeiro. Os livros normalmente não iniciam desta forma; com medo
+        de assustar ou frustrar aqueles que estão interessados. Ao invés disto, eles tentam atrasar indo mais profundamente nas regras de
+        conjugações mais difíceis com remendos que assim eles possam começar a ensinar expressões úteis de cara. (Estou falando, em particular,
+        sobre as conjugações verbais para o pretérito). Este é um bom início para alguns, no entanto, isto pode criar mais confusões e problemas
+        futuramente, mais ou menos como construir uma casa em uma fundação fraca. As partes difíceis precisam ser abordadas, de qualquer forma.
+        No entanto, se você abranger no início, as partes mais fáceis serão mais fáceis ainda porque elas irão entrar direitinho em cima da
+        fundação que você criou. O Japonês é sintaticamente muito mais consistente que o Português. Se você aprender as regras de conjugação
+        mais difíceis, a maioria das gramáticas restantes serão construídas em regras similares ou iguais. A única parte difícil a partir daí é
+        ordenar e lembrar todas as possíveis expressões e combinações de forma que você use-as na situação correta.\n\n
+
+        Exemplos e experiência serão suas ferramentas principais para dominar o Japonês. Então, mesmo que você não entenda algo completamente
+        logo de cara, apenas siga em frente e consulte novamente quando você ver mais exemplos. Isto permitirá que você consiga um melhor senso
+        de como é usado em vários contextos diferentes.
+    </string>
+//
+
+//4
+    <string name="textEstudo4">
+        <font color="#00008B"><big><b><u>Os Alfabetos</u></b></big></font>\n\n
+
+        Diferentemente do português, cuja escrita utiliza somente o alfabeto latino, o sistema de escrita da língua japonesa é composto
+        por quatro tipos de caracteres, sendo um deles o alfabeto latino, chamado de “rōmaji” (escreve-se ローマ字 e pode ser traduzido
+        literalmente para caractere romano). A língua Japonesa possui dois alfabetos fonéticos (ou kana) chamados “Hiragana” e o “Katakana”, que
+        são compostos por 46 caracteres cada, sendo que cada caractere representa o som de uma sílaba.\n\n
+
+        Os caracteres Chineses, chamados kanji em Japonês, são também usados amplamente na escrita Japonesa. A maioria das palavras escritas
+        em Japonês, são escritas em kanji (substantivos, verbos, adjetivos). Existem mais de 40.000 kanji, sendo que cerca de 2.000 representam
+        mais de 95% dos caracteres realmente usados nos textos escritos. Não há nenhum espaço em Japonês, então os kanji são necessários para
+        distinguir as palavras dentro da sentença. Kanji são também úteis para discriminar entre palavras homófonas (Exemplo: a
+        palavra “legal” , que pode ser usada tanto no sentido jurídico como no sentido de ser divertido), que ocorrem freqüentemente, devido ao
+        limitado número de sons distintos em Japonês.\n\n
+
+        Hiragana é usada principalmente para usos gramaticais. Nós iremos ver isto a medida que nós aprendermos sobre as partículas. Palavras
+        com altíssima dificuldade ou kanji raros, expressões coloquiais e onomatopéias são também escritos em hiragana. É geralmente usado
+        também para estudante principiantes e crianças no lugar dos kanji que eles não aprenderam.\n\n
+
+        Enquanto que katakana representa os mesmos sons que o hiragana, ele é usado principalmente para representar novas palavras importadas
+        dos países ocidentais (já que não existe nenhum kanji associado com as palavras baseadas no alfabeto romano). As próximas três seções
+        irão abordar hiragana, katakana e kanji.\n\n\n
+
+        <font color="#00008B"><big><b><u>Entonação</u></b></big></font>\n\n
+
+        Como você irá descobrir na próxima seção, cada som em hiragana (e o equivalente em katakana) corresponde a uma sílaba
+        [consoante + vogal] com a única exceção dos caracteres「ん」 e 「ン」 (mais sobre isto mais tarde). Este sistema de som faz com que a
+        pronúncia de letras sejam claras sem nenhuma ambiguidade. No entanto, a simplicidade dos sons silabários não significa que a pronúncia
+        seja simples. De fato, a rígida estrutura dos sons silabários em Japonês criam o problema de entonação no lugar das dificuldades que
+        existem em alfabetos com consoantes e vogais separados, como o usado no Português.\n\n
+
+        Entonação de sons graves e agudos é um aspecto crucial na fala. Por exemplo, sons homófonos podem ter diferenças de sons graves e agudos,
+        resultando em uma pequena diferença no som da palavra mesmo que seja escrito com o mesmo som. A maior barreira para uma pronúncia
+        apropriada e natural é a entonação incorreta. Muitos estudantes muitas vezes falam sem prestar atenção para a pronúncia correta,
+        fazendo com que a pronúncia soe não natural (o clássico sotaque de estrangeiros). Não é útil decorar ou tentar criar regras para a
+        pronúncia, especialmente porque esta pode mudar dependendo do contexto ou do dialeto. A única tentativa para se aproximar mais da
+        pronúncia natural é ter um senso geral de entonação, através de escutas cuidadosas de japoneses nativos e a prática.
+    </string>
+//
+
+//5
+    <string name="textEstudo5a">
+        <font color="#00008B"><big><b><u>O que é Hiragana?</u></b></big></font>\n\n
+
+        Hiragana é o alfabeto fonético básico do Japonês. Ele representa todos os sons na língua Japonesa. Portanto,
+        você pode teoricamente escrever tudo em hiragana. No entanto, como o Japonês é escrito sem nenhum espaço, isto irá criar praticamente
+        um texto indecifrável.\n\n
+
+        Aqui está uma tabela e os sons correspondentes à pronúncia em Português. Em Japonês, escrever com a ordem e direção dos traços é
+        importante, especialmente para os kanji. Como as letras escritas à mão são um pouco diferentes das letras comerciais (assim como o “a”
+        é diferentedo “a” escrito a mão), é recomendavel procurar uma fonte como um website ou um livro que mostre como os caracteres são
+        escritos. Eu também devo enfatizar a importância da pronúncia correta de cada som, já que todas as palavras em Japonês são compostas por
+        estes sons, aprender uma pronúncia incorreta de uma letra pode prejudicar seriamente sua fundação, na qual sua pronúncia se baseia.\n\n
+
+        <font color="#00008B"><big><b><u>Hiragana Básico</u></b></big></font>
+    </string>
+
+    <!--table HiraBasic-->
+
+    <!--hyperlink below-->
+    <string name="textEstudo5b">
+        <b>NOTA:</b> O som “h” do japonês tem um som aspirado como nas palavras em inglês “house” e “help”. O som “r” do japonês tem som do “r” do
+        Português parecido ao das palavras “ouro” e “aura”.\n\n
+
+        Hiragana não é tão difícil de dominar ou ensinar, e como resultado, há uma variedade de web sites e programas grátis que já estão
+        disponíveis na rede. Eu recomendo fortemente que vá para este
+        <a href="https://www.coscom.co.jp/hiragana-katakana/kanatable-j.html">website</a> para ouvir a pronúncia de cada caractere.
+        Eu também sugiro que grave sua pronúncia e compare com os sons para ter certeza que você está aprendendo corretamente.\n\n
+
+        Quando estiver praticando a escrita do hiragana à mão, é importante lembrar que a ordem e a direção dos traços são importantes.
+        Acredite, você irá descobrir o porquê quando você ler recados apressados de outras pessoas, que parecem nada mais que um monte de
+        rabiscos. A única coisa que irá lhe ajudar é que todos escrevem na mesma ordem e o “fluxo” dos caracteres é consideravelmente
+        consistente. Eu recomendo você prestar bastante atenção na ordem dos traços do hiragana desde o começo para evitar ter maus hábitos.
+        Vá para este <a href="http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf">website</a> para ver
+        a ordem dos traços e praticar daí.\n\n
+
+        <font color="#0F305C"><b>Notas</b></font>\n
+
+        1. Você deve aprender a ordem e a direção de cada traço corretamente! Vá para
+        este <a href="http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf">website</a> para aprender.\n
+        2. Vá para este <a href="https://www.coscom.co.jp/hiragana-katakana/kanatable-j.html">website</a> para ouvir a pronúncia de cada
+        caractere do hiragana.\n
+        3. Exceto pelo 「し」、「ち」、「つ」、e 「ん」、você pode entender o sentido de como cada letra é pronunciada, combinando a consoante
+        da primeira coluna com a vogal da linha de cima. Por exemplo, 「き」 irá ser /ki/ e 「ゆ」 seria /yu/ e assim por diante.\n
+        4. Como você pode ver, não são todos os sons que funcionam com o sistema de combinação das consoantes. Como escrito na tabela, 「ち」
+        é pronunciado "chi" e 「つ」 é pronunciado "tsu".\n
+        5. Os sons / r / ou / l / em Japonês são um pouco diferentes de qualquer som do Português. Ele envolve mais um giro e um clip pelo
+        batimento da língua no céu da boca. Preste atenção nisto em toda a coluna.\n
+        6. Preste atenção na diferença dos sons /tsu/ e /su/.\n
+        7.O caractere 「ん」 é um caractere especial porque é raramente usado sozinho e não tem um som vogal. Ele é anexado com outro
+        caractere para adicionar um som nasal / n /. Por exemplo, 「かん」 seria \'kan\' ao invés de \'ka\', 「まん」 seria \'man\' ao invés de
+        \'ma\', e assim por diante.\n\n\n
+
+
+        <font color="#00008B"><big><b><u>Os Sons Modificados</u></b></big></font>\n\n
+
+        Uma vez que você memorize todos os caracteres do hiragana, você acabou de aprender o alfabeto, mas não todos os
+        sons. Há mais cinco possíveis sons que são possíveis colocando duas pequenas linhas, parecidas com as aspas, chamadas dakuten （濁点）ou
+        um pequeno circulo chamado handakuten （半濁点）. Isto essencialmente cria um som modificado da consoante (tecnicamente chamada uma
+        consoante sonora ou「濁り」, que literalmente significa se tornar lamacento.\n\n
+
+        Todas as possíveis combinações dos sons modificados são dados na tabela abaixo.
+    </string>
+
+    <!--table HiraHanDakuten-->
+
+    <string name="textEstudo5c">
+        <font color="#0F305C"><b>Notas</b></font>\n
+
+        1. Vá para este <a href="https://www.coscom.co.jp/hiragana-katakana/kanatable-j.html">website</a> novamente para ouvir a pronúncia
+        destes sons novos.\n
+        caractere do hiragana.\n
+        2. Perceba que o som 「ぢ」 é essencialmente idêntico ao「じ」 e os dois são pronunciados como /ji/, enquanto que「づ」é pronunciado
+        como /dzu/.\n\n\n
+
+
+        <font color="#00008B"><big><b><u>\nOs 「や」、「ゆ」、e 「よ」Pequenos</u></b></big></font>\n\n
+
+        Você pode também combinar uma consoante com um som /ya/, /yu/ ou /yo/ colocando um pequeno「や」、「ゆ」、ou 「よ」 em cada consoante
+        nos caracteres com a vogal /i/.
+    </string>
+
+    <!--table HiraSmallY-->
+
+    <!--hyperlink below-->
+    <string name="textEstudo5d">
+        <font color="#0F305C"><b>Notas</b></font>\n
+
+        1. A tabela acima é a mesma que as anteriores. Combine as consoantes de cima com o som vogal da direita. Ex: きゃ = kya.\n
+        2. Vá para este <a href="https://www.coscom.co.jp/hiragana-katakana/kanatable-j.html">website</a> novamente para ouvir a pronúncia
+        destes sons novos. O autor decidiu incluir 「ぢゃ」、「ぢゅ」、e 「ぢょ」 mas estas combinações nunca são usadas, no lugar é sempre usado
+        「じゃ」、「じゅ」、e 「じょ」.\n
+        3. Também note que já que「じ」 é pronunciado /ji/, todos os pequenos sons「や」、「ゆ」、「よ」 são também baseados nisto, em outras
+        palavras; /jya/, /jyu/ e /jyo/ soam como os sons /ja/, /ju/ e /jo/ do português.\n
+        4. O mesmo se aplica para o 「ち」 que se torna /cha/, /chu/, /cho/ que soam como os sons /tcha/, /tchu/, /tcho/ do português; e
+        「し」 que se torna /sya/, /syu/, /syo/ que que soam como os sons /sha/, /shu/, /sho/ do português.\n\n\n
+
+        <font color="#00008B"><big><b><u>\nO「つ」Pequeno</u></b></big></font>\n\n
+
+        O「つ」pequeno é inserido entre dois caracteres para carregar o som da consoante do segundo caractere junto com o som final do primeiro
+        caractere. Por exemplo, se você inserir um「つ」pequeno entre「び」 e 「く」 para fazer 「びっく」, o som da consoante /k/ e carregado com o
+        final do primeiro caractere, produzindo “bikku”. Assim como「はっぱ」 se torna "happa", 「ろっく」 se torna "rokku" e assim por diante.
+        Neste <a href="https://youtu.be/ieTjbASktDw?t=24">vídeo</a> é possível ouvir a pronúncia do 「つ」pequeno a partir de exemplos.\n\n
+
+        <font color="#0F305C"><b>Notas</b></font>\n
+
+        1. Um 「つ」pequeno é usado para carregar o som da consoante do segundo caractere com o final do primeiro. Ex.:「がっき」 = "gakki".\n
+        2. A adição de outra consoante quase sempre cria um som característico de parada. Mas certifique-se que você está fazendo esta
+        parada com a consoante certa (a consoante do segundo caractere).\n\n\n
+
+
+        <font color="#00008B"><big><b><u>A Vogal De Som Prolongado</u></b></big></font>\n\n
+
+        Ufa! Você está quase terminando. Nesta última parte, nós veremos a vogal de som prolongado, que simplesmente estende a duração do som
+        da vogal. Você pode estender o som da vogal de um caractere apenas colocando 「あ」、「い」ou 「う」 dependendo da vogal, de acordo com
+        a tabela a seguir.
+    </string>
+
+    <!--table HiraExtended-->
+
+    <string name="textEstudo5e">
+        Por exemplo, se você quiser criar um som de vogal prolongada de 「か」, você deverá adicionar 「あ」 para criar 「かあ」. Outros exemplos
+        incluem: 「き → きい」, 「く → くう」, 「け → けい」, 「こ → こう」, 「さ → さあ」e assim por diante. A razão disto é bem simples. Tente dizer「か」
+        e「あ」separadamente. Então fale sucessivamente e o mais rápido possível. Você logo perceberá que estará estendendo o /ka/ por uma
+        duração mais longa que dizer somente /ka/. Você pode tentar este exercício com as outras vogais. Tente lembrar, que na verdade, você
+        está pronunciando dois caracteres com seus limites embaçados. Na verdade, você pode nem estar pensando conscientemente sobre vogais
+        longas e simplesmente pronunciar as letras juntas rapidamente para conseguir o som correto. Em particular, enquanto que /ei/ pode ser
+        considerado som vogal prolongado, eu acho que a pronúncia sai bem melhor simplesmente pronunciando /e/e/i/.\n\n
+
+        É importante você se certificar que a vogal é prolongado o suficiente porque você pode estar dizendo coisas como “aqui”（ここ）ao invés de
+        “Ensino Médio”（こうこう）ou “mulher de meia-idade”（おばさん）ao invés de “avó” （おばあさん）se você não esticar corretamente!\n\n
+
+        Há algumas raras exceções quando um som vogal /e/ é estendido por um「え」ou um som vogal /o/ é estendido por um「お」. Alguns exemplos
+        são「おねえさん」、「おおい」、e 「おおきい」. Preste bastante atenção nestas exceções, já que não são muitas.
+    </string>
+//
+
+//6
+    <string name="textEstudo6a">
+        <font color="#00008B"><big><b><u>O que é Katakana?</u></b></big></font>\n\n
+
+        Como mencionado antes, katakana é usado geralmente em palavras importadas de línguas estrangeiras. Pode ser usado para mostrar a
+        pronúncia de kanjis em outras línguas como o Chinês, e assim como o itálico, também pode ser usado para dar ênfase à certas palavras.
+        O Katakana representa o mesmo conjunto fonético do Hiragana porém, é claro, todos os caracteres são diferentes. Sendo que, palavras
+        estrangeiras precisam ser ajustadas a este conjunto de combinações [consonantes+vogais], elas sofrem várias transformações radicais
+        resultando em casos onde falantes em Inglês não conseguem entender palavras que supostamente foram derivadas do Inglês! Como resultado,
+        o uso de katakana é extremamente difícil para os mesmos, por que eles esperam que as palavras possuam sons parecidos com... bem...
+        o Inglês. Ao contrário, é melhor esquecer completamente a palavra inglesa original, e lidar com a mesma como uma palavra japonesa
+        totalmente separada, caso isso não aconteça, você pode cair no hábito de usar palavras inglesas com a pronúncia inglesa(consequentemente
+        uma pessoa Japonesa poderá ou não, entender o que você está dizendo).
+    </string>
+
+    <!--table KatakanaBasic-->
+
+    <!--hyperlink below-->
+    <string name="textEstudo6b">
+        O katakana é expressivamente mais difícil de dominar se comparado ao hiragana, por que é usado somente em certas palavras e você não
+        pratica tanto quanto o hiragana. Para aprender a ordem correta dos traços (e sim, é preciso), aqui vai a mesma página de antes, porém,
+        para <a href="http://japanese-lesson.com/resources/pdf/characters/katakana_writing_practice_sheets.pdf">katakana</a>.\n\n
+
+        A pronúncia de cada caractere pode ser ouvida neste <a href="https://www.coscom.co.jp/hiragana-katakana/kanatable-j.html">web site</a>.\n\n
+
+        Já que o Japonês não possui nenhum espaço, algumas vezes o simbolo 「・」 é usado para mostrar os espaços como em 「ロック・アンド・ロール」
+        para "rock and roll". Usar este símbolo é completamente opcional e por isto, algumas vezes, nada será usado.\n\n
+
+        <font color="#0F305C"><b>Notas</b></font>\n
+        1. Todos os sons são respectivamente idênticos aos do Hiragana.\n
+        2. Como você verá mais adiante, já que 「を」 é usado somente como partícula e todas as partículas estão em hiragana, você quase nunca
+        precisará usar 「ヲ」.\n
+        3. Os quatro caracteres 「シ」、「ン」、「ツ」、e 「ソ」 são cruelmente similares uns aos outros. Basicamente, a diferença é que os dois
+        primeiros são mais "horizontais" que os outros dois. As pequenas linhas tendem mais horizontalmente e a linha longa é desenhada com
+        uma curva de baixo para cima. Os dois últimos possuem as pequenas linhas quase verticais e a longa não é curvada tanto já que é
+        desenhada de cima para baixo. É quase uma barra diagonal enquanto o anterior parece mais com um arco. Estes caracteres são difíceis
+        de se distinguir e requerem um pouco de paciência e prática.\n
+        4. Os caracteres 「ノ」、「メ」、e 「ヌ」 também merecem um pouco de atenção, assim como, 「フ」、「ワ」、 e 「ウ」. Sim, todos eles são
+        parecidos. Não, você não pode fazer nada a respeito.\n
+        5. Você precisa conhecer a direção e ordem correta dos traços! Vá a
+        esta <a href="http://japanese-lesson.com/resources/pdf/characters/katakana_writing_practice_sheets.pdf">página</a> para aprender.\n
+        6. Algumas vezes o 「・」 é usado para indicar o que deveriam ser espaços em Inglês.\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>O Som da Vogal Longa</u></b></big></font>\n\n
+
+        Todo o resto funciona exatamente da mesma forma que com o hiragana, você só precisa substituir para os equivalentes em katakana. Porém,
+        existe uma diferença, a vogal longa foi radicalmente simplificada no katakana. Ao invés de pensar nos sons da vogal, todos os sons de
+        uma vogal longa são indicados por uma simples barra, assim: ー. Exemplo: ビール (Beer/Cerveja).\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>Os 「ア、イ、ウ、エ、オ」 pequenos</u></b></big></font>\n\n
+
+        Por causa das limitações no conjunto de sons do hiragana, algumas combinações novas foram criadas com o passar dos anos para suprir os
+        sons que não faziam parte do japonês originalmente. A mais notável é a falta dos sons /ti/, /di/ (Por causa dos sons /chi/, /tsu/) e
+        exceto o 「ふ」, a falta do som da consoante /f/. Os sons das consoantes /sh/, /j/, /ch/ também faltam para a vogal /e/. A decisão de
+        resolver estas deficiências foi a de adicionar versões pequenas dos sons das cinco vogais. Isto também foi feito para o som da consoante
+        /w/ para substituir caracteres obsoletos. Além do mais, a convenção de usar pequenas barras duplas nos sons da vogal /u/ para indicar a
+        consoante /v/ também foi estabelecido, mas não é usado frequentemente, provavelmente devido ao fato de que os japoneses continuam com
+        dificuldades em pronunciar o /v/. Por exemplo, enquanto você pode achar que "volume" seja pronunciado com um som de /v/, os japoneses
+        optaram pela simples pronuncia "bolume"/"boryu-me" （ボリューム）. Da mesma forma, vodka é escrito como "wokka" （ウォッカ） e não 「ヴォッカ」.
+        Você pode escrever "violin" tanto como 「バイオリン」 ou como 「ヴァイオリン」. Isso realmente não importa, já que todos os japoneses irão
+        pronunciá-lo com o som de / b / de qualquer forma. A tabela seguinte mostra em destaque os sons que faltavam e que foram adicionados.
+        Outros sons que já existiam são reusados apropriadamente.
+    </string>
+
+    <!--table kataAdditional-->
+
+    <string name="textEstudo6c">
+        <font color="#0F305C"><b>Notas</b></font>\n
+        1. Repare que não há som para /wu/. Por exempo, a forma em katakana de "woman" é escrita como "u-man" （ウーマン）.\n
+        2. Enquanto o som (como em "too") /tu/ pode tecnicamente ser produzido de acordo com as regras como 「トゥ」, palavras estrangeiras
+        que passaram a ser populares antes que estes sons estivesem disponíveis, eram simplesmente pronunciadas com o som de /tsu/.
+        Por exemplo, "tool" continua como 「ツール」 assim como "tour" continua como 「ツアー」.\n
+        3. Antigamente, sem esses novos sons, não havia escolha a não ser excluír esses caracteres da tabela regular sem considerar suas
+        pronúncias. Em construções antigas, talvez você ainda possa ver 「ビルヂング」 ao invés da escrita moderna 「ビルディング」.\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>Alguns exemplos de palavras em katakana</u></b></big></font>\n\n
+
+        Traduzir palavras do Inglês para o Japonês é uma destreza que requer um pouco de prática e sorte. Para te dar uma idéia de como palavras
+        inglesas são \'japonesificadas\', seguem alguns exemplos de palavras em katakana. Algumas vezes as palavras em katakana podem não estar
+        corretas em Inglês ou possuem um significado diferente da palavra original que supostamente deveriam representar. É claro que nem toda
+        palavra em katakana é derivada do Inglês.
+    </string>
+    <!--table KataExamples-->
+//
+
+//7
+    <string name="textEstudo7">
+        <font color="#0F305C"><big><b><u>O que é Kanji?</u></b></big></font>\n\n
+
+        Em Japonês, substantivos, radicais de adjetivos e verbos são, quase que ao todo, escritos com caracteres Chineses chamados kanji.
+        Advérbios também são frequentemente escritos em kanji. Isso significa que você terá de aprender os caracteres chineses para ser capaz
+        de ler praticamente quase todas as palavras da linguagem. Porém, nem todas as palavras são escritas em kanji. Por exemplo, mesmo que o
+        verbo \'fazer\' tecnicamente possua um kanji associado a si, é sempre escrito em hiragana. Critérios individuais e um senso de como as
+        coisas são escritas normalmente são nescessários para decidir quando as palavras devem ser escritas em hiragana ou kanji. De qualquer
+        modo, quase sempre a maioria das palavras em Japonês será escrita em kanji. (Livros infantis ou qualquer outro material onde não se
+        espera que o público alvo saiba muitos kanjis são uma exceção a isto.)\n\n
+
+        Este guia começa a usar kanjis desde o começo para ajudar ao leitor a ler Japonês "real" o mais rápido possível. Portanto, veremos
+        algumas de suas propriedades e vamos discutir algumas estratégias para aprendê-los de uma forma rápida e eficiente. Dominá-los não é fácil
+        mas isto não significa de forma alguma que seja impossível. A maior parte da batalha é dominar as técnicas de aprendizado de kanji e o
+        tempo. Resumindo, aprender kanjis com memorização rápida precisa ser feito com uma grande quantidade de estudos e, mais importante, por
+        bastante tempo. E com isto, não refiro-me à cinco horas de estudos por dia, e sim rever como escrever os kanjis ao menos uma vez todos
+        os meses até que você tenha certeza de que tenha aprendido bem. Esta é outra razão pela qual este guia começa usando kanjis. Não há
+        razão para deixar o imenso trabalho de aprender os kanjis em um nível avançado. Ao estudar kanjis junto com novos vocábulos desde o
+        começo, o imenso trabalho de aprender kanji será dividido em pedaços pequenos e controláveis e o tempo extra ajudará a fixar os kanjis
+        aprendidos na memória permanente. Além do mais, isto irá ajudá-lo a ampliar seu vocabulário, o qual geralmente terá combinações de
+        kanjis que você já conhece. Se você começar a aprender kanjis depois, este benefício será desperdiçado ou limitado.\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>Aprendendo Kanji</u></b></big></font>\n\n
+
+        Recomendo fortemente que você tenha instalado um teclado com suporte ao idioma japonês agora, caso ainda não tenha instalado, há instruções de como realizar a instalação na seção \"Estudo\", no tópico \"2.Recursos Úteis\".
+        
+        Especialmente para aqueles que estão apenas começando a aprender, você vai querer escrever repetidamente cada kanji para memorizar
+        a ordem de escrita. Outra capacidade importante é aprender como balancear o caractere para que certas partes não fiquem maiores ou
+        menores do que deveriam ser. Então, tenha certeza de ter copiado o caractere o mais próximo possível do original. Com o tempo, você
+        desenvolverá naturalmente uma noção da ordem dos traços para determinados tipos de caracteres, permitindo que você pule o estágio de
+        treino. Todos os kanjis que são usados neste guia podem facilmente ser estudados ao se copiar e colar no\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>Lendo Kanji</u></b></big></font>\n\n
+
+        Quase todo caractere possui duas leituras diferentes chamadas 音読み （おんよみ） e 訓読み（くんよみ）. 音読み é a leitura original Chinesa
+        enquanto 訓読み é a leitura Japonesa. Kanjis compostos ou 熟語 são geralmente lidos como 音読み enquanto um kanji por si só é geralmente
+        lido como 訓読み. Por exemplo 「力」（ちから） é lido como 訓読み enquanto o mesmo caractere compondo uma palavra como em 「能力」 é lido como
+        音読み （que é 「りょく」 neste caso）.\n\n
+
+        Certos caracteres (especialmente os mais comuns) podem ter mais de um 音読み ou 訓読み. Por exemplo, na palavra 「怪力」, 「力」 é lido aqui
+        como 「りき」 e não 「りょく」. Certas palavras compostas também possuem leituras especiais que não têm nada a ver com a leitura individual
+        dos caracteres. Estas leituras precisam ser memorizadas individualmente. Felizmente, estas leituras são poucas e raras de se ver.\n\n
+
+        訓読み também é usado em adjetivos e verbos além dos caracteres independentes. Estas palavras geralmente possuem uma sequência de kana
+        (chamada okurigana) que vem anexada à palavra. Desta forma, a leitura dos caracteres Chineses continua a mesma mesmo quando a palavra
+        é conjulgada em diferentes formas. Por exemplo, o passado do verbo 「食べる」 é 「食べた」. Mesmo que o verbo tenha mudado, a leitura para
+        「食」 continua inalterada; legal e seguro. Okurigana também serve para distinguir entre os verbos transitivos e intransitivos
+        (mais sobre este assunto depois).\n\n
+
+        Outro conceito que é difícil de aceitar no começo é o de que as atuais leituras dos Kanjis geralmente mudam levemente em uma palavra
+        composta para torná-la mais fácil de se pronunciar. As transformações mais comuns incluem a mudança do som de / h / para os sons de
+        / b / ou / p / ou até mesmo 「つ」 tornando-se 「っ」. Exemplos incluem: 「一本」、「徹底」、e 「格好」.\n\n
+
+        Um aspecto engraçado dos kanjis é que você verá palavras que possuem praticamente o mesmo significado e a mesma leitura, mas que têm
+        diferentes kanjis para criar uma pequena diferença no significado. Por exemplo 「聞く」（きく） significa "ouvir" e o mesmo para 「聴く」
+        （きく）. A única diferença é que 「聴く」 significa prestar mais atenção ao que se está ouvindo. Por exemplo, ao ouvir música quase sempre
+        é preferido o uso de 「聴く」 a 「聞く」. 「聞く」 também pode significar \'perguntar\', assim como \'ouvir\', mas 「訊く」（きく） só pode ser
+        usado com o significado de "perguntar". Também é comum se escrever 「見る」 como 「観る」 quando isto é aplicado ao sentido de assistir um
+        show como um filme. Outro exemplo interessante é 「書く」（かく） que significa \'escrever\' enquanto 描く （かく） significa \'desenhar\'. Ainda
+        assim, quando se está descrevendo uma imagem abstrata como uma cena de um livro, a leitura da mesma palavra 「描く」 torna-se 「えがく」.
+        Também há o caso onde o significado e o kanji permanecem os mesmos mas pode ter leituras variadas como em 「今日」 que pode ser tanto
+        「きょう」、 quanto 「こんじつ」, ou 「こんにち」. Neste caso, a leitura que você escolhe não é realmente importante, exceto quando existem
+        formas preferidas em certas situações.\n\n
+
+        Finalmente, existe um caractere especial 々 que não é um caractere realmente. Ele simplesmente indica que o caractere anterior é
+        repetido. Por exemplo, 「時時」、「様様」、「色色」、「一一」 podem e geralmente são escritos como 「時々」、「様々」、「色々」、「一々」.\n\n
+
+        Além destas \'qualidades\' dos kanjis, você encontrará um mar de truques encantadores e surpresas que os kanjis possuem conforme você
+        avança em Japonês. Você pode decidir por si só se esta declaração foi sarcasmo ou não. Todavia, são fique assustado pensando que
+        Japonês é incrivelmente difícil. A maioria das palavras da linguagem tem somente um kanji associado com ele e a maioria dos kanjis
+        não possuem mais de dois tipos de leituras.\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>Por que Kanji?</u></b></big></font>\n\n
+
+        Algumas pessoas acham que o uso de um sistema de símbolos discretos e separados ao invés de um alfabeto consciso seja algo antiquado e
+        muito complicado. De fato, talvez não tenha sido uma boa idéia ter adotado o Chinês no Japonês já que ambas as linguagens são
+        fundamentalmente diferentes na estrutura. Mas o objetivo deste guia não é debater as decisões tomadas centenas de anos atrás, e sim
+        explicar o porquê você deve aprender kanji para aprender Japonês. E com isto, quero dizer mais do que simplesmente falar
+        "É assim que tem que ser, então comece!".\n\n
+
+        Algumas pessoas acham que Japonês deveria simplesmente ser trocado do Chinês para o romanji deixando à parte todos os caracteres
+        complicados que desorientam os cruéis estrangeiros brancos. De fato, os coreanos adotaram seu próprio alfabeto para simplificar
+        eficientemente sua linguagem escrita. Então por que isto não funcionou para o Japonês? E eu pergunto isto no pretérito por que
+        acredito que o governo tenha em vão tentado substituir os kanjis com romanji logo após a guerra. Acho que qualquer um que tenha
+        escrito algo com um tamanho razoável em Japonês saiba claramente o porque que isto não funciona. A qualquer hora, quando você
+        converter escrita hiragana em kanji, você se depara quase sempre com ao menos duas escolhas (dois homófonos) e algumas vezes mais
+        de dez. (Tente escrever kikan). Os 46 ou mais sons em Japonês tornam difícil evitar homófonos. Compare isto com Coreano que possui
+        14 consoantes e 10 vogais. Qualquer das consoantes pode ser combinada com as vogais dando um total de 140 sons. Além disto, uma
+        terceira e algumas vezes até mesmo uma quarta consoante pode ser anexada para se criar uma única letra. Teoricamente isto nos dá
+        cerca de 1960 sons que podem ser criados. (Os sons que são usados na realidade são muito menos que isto, embora eu não saiba o
+        número exato.) Já que você quer ler em uma velocidade maior do que a que você fala, você precisa de algumas pistas visuais para
+        descrever instantaneamente o que cada palavra é. Você pode usar a forma das palavras em Inglês para correr pelo texto porquê muitas
+        palavras possuem formas diferentes. Tente este pequeno exercício: Oi, momes moc tosad as apvalras sitsecra de ofarm rinrecota, vêco
+        aandi dope me renetden?" Coreano faz isto porquê há caracteres o suficiente para criar palavras distintas e de formas diferentes. Japonês também consegue isto com o uso dos kanjis, sem eles, o leitor provavelmente será forçado a parar muito frequentemente para adivinhar qual palavra está sendo usada pelo contexto.
+    </string>
+//
+
+//8
+    <string name="textEstudo8">
+        <font color="#0F305C"><big><b><u>Usando 「だ」 para declarar algo</u></b></big></font>\n\n
+
+        Uma das partes mais difíceis do Japonês é que não há um verbo para o estado-de-ser como o "Ser" em Português. O que acontece é que,
+        existe uma maneira de declarar a existência de algo anexando o caractere de hiragana 「だ」 <b>apenas em um substantivo ou em um
+        adjetivo-na</b>. Você saberá o que isto significa quando aprendermos sobre substantivos e adjetivos.\n\n
+
+        <font color="#B53834"><b>Declarando a existência de algo usando 「だ」</b></font>\n
+        Anexe 「だ」 ao substantivo ou ao adjetivo-na\n
+        （１）　魚。 - Peixe.\n
+        （２）　魚だ。 - É peixe.\n\n
+
+        Parece muito fácil. Aqui está o verdadeiro problema: <b>Um estado-de-ser pode ser declarado sem o uso do 「だ」!</b>\n\n
+
+        Por padrão, （１） é simplesmente a palavra \'peixe\' e não significa nada além disto. Porém, veremos na próxima seção que com a partícula
+        de tópico, podemos pressupor que algo é um peixe pelo contexto sem declarar nada. Então a pergunta que deve estar passando na sua cabeça
+        é, "Se você pode dizer que algo é [X] sem usar 「だ」, então, qual o motivo de isto existir?". Bem, a maior diferença é que em uma
+        declaração afirmativa faz o som parecer mais enfático e forçado de modo a torná-la mais... bem, afirmativa. Portanto, é mais comum você
+        ouvir homens usando 「だ」 no fim das sentenças. Este é o porquê de você não poder usar 「だ」 ao fazer uma pergunta, porquê parecerá que
+        você está fazendo uma afirmação e uma pergunta ao mesmo tempo.\n\n
+
+        O 「だ」 declarativo também é necessário em várias estruturas gramáticais onde um estado-de-ser precisa ser declarado explicitamente.
+        Ainda há o caso onde você não deve anexá-lo. Isto é muito incômodo realmente, mas você não deve se preocupar com isto ainda.\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>Conjugação negativa do estado de ser</u></b></big></font>\n\n
+
+        Em Japonês, o negativo e o pretérito são expressos por conjugação. Podemos conjugar o estado-de-ser tanto para a forma negativa quanto
+        para a passada dizendo que algo não é [X] ou que algo era [X]. Isto pode ser meio difícil de aceitar logo de primeira mas nenhuma destas
+        conjugações do estado-de-ser afirmam algo como o 「だ」 faz. Aprenderemos, em uma outra lição, como criar estas declarações afirmativas
+        anexando 「だ」 ao fim da frase.\n\n
+
+        Primeiro, para a forma negativa, simplesmente anexa-se 「じゃない」 ao substantivo ou adjetivo-na.\n\n
+
+        <font color="#B53834"><b>Regras de conjugação para a negação do estado de ser</b></font>\n
+        Anexe 「じゃない」 ao substantivo ou adjetivo-na\n
+        Exemplo: 友達　→　友達じゃない (não é amigo(a))\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n
+        （１）　魚じゃない。- Não é peixe.\n
+        （２）　学生じゃない。- Não é estudante.\n
+        （３）　静かじゃない。- Não é quieto.\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>Conjulgação passada do estado-de-ser</u></b></big></font>\n\n
+        Aprenderemos agora a forma passada do estado-de-ser. Para dizer que algo era alguma coisa, 「だった」 anexa-se ao substantivo ou ao
+        adjetivo-na. A negação pode ser transformada para a negação passada por simplesmente se retirar o 「い」 de 「じゃない」 e adicionar 「かった」.\n\n
+
+        <font color="#B53834"><b>Conjulgação passada do estado de ser</b></font>\n
+        <b>1. O Pretérito do estado de ser:</b> Anexe 「だった」 ao substantivo ou adjetivo-na\n
+        Exemplo: 友達　→　友達だった (era amigo(a))\n
+        <b>2. Pretérito negativo do estado de ser:</b> Conjugue o substantivo ou adjetivo-na para a forma negativa primeiro substitua 「い」 de
+        「じゃない」 com 「かった」\n
+        Exemplo: 友達　→　友達じゃない →　友達じゃなかった (não era amigo(a))\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n
+        （１）　魚だった。- Era peixe.\n
+        （２）　学生じゃなかった。- Não era estudante.\n
+        （３）　静かじゃなかった。- Não era quieto.\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>Resumo</u></b></big></font>\n\n
+
+        Aprendemos agora como expressar o estado-de-ser em todas as quatro formas(presente afimativo, presente negativo, pretérito afirmativo e
+        pretérito negativo). Agora aprenderemos algumas partículas que nos permitirão relacionar dois substantivos. Aqui vai um quadro de resumo
+        das conjugações que aprendemos nesta seção.
+    </string>
+    <!--table State-of-being-->
+//
+
+//9
+    <string name="textEstudo9">
+        <font color="#0F305C"><big><b><u>Definindo funções gramaticais com partículas</u></b></big></font>\n\n
+
+        Agora queremos fazer um bom uso de tudo que aprendemos na última lição associando um substantivo a outro. Isto é feito com algo
+        chamado partícula. Partículas são um ou dois caracteres hiragana que são anexados no fim de uma palavra para definir qual a função
+        gramatical que aquela palavra possui na sentença. Usar as partículas corretamente é muito importante porquê o sentido da oração pode
+        mudar completamente ao se mudar as partículas. Por exemplo, a oração "Come peixe." pode vir se tornar "O peixe come." simplesmente
+        mudando-se uma partícula.\n\n\n
+
+
+        <big><big><b><u>A partícula de tópico 「は」</u></b></big></big>\n\n
+
+        A primeira partícula que aprenderemos é a de tópico. Esta partícula básicamente identifica o que você está falando, ou seja, o assunto
+        da sua oração. Digamos que alguém diga, "Não é estudante." Isto é uma oração perfeitamente válida em Japonês mas não nos diz muito sem
+        sabermos do que a oração está falando. A partícula de tópico nos permitirá expressar sobre o que estamos falando e é representada pelo
+        caractere 「は」. Agora, mesmo esse caractere sendo normalmente pronunciado como /ha/, é pronunciado como /wa/ somente quando é usado
+        como partícula de tópico.\n\n
+
+        <font color="#0F305C"><b>Exemplo 1</b></font>\n
+        ボブ：　アリス<font color="#008000">は</font>学生？- Você(Alice) é estudante?\n
+        アリス：　うん、学生。- Sim, eu sou.\n\n
+
+        Aqui, Bob está indicando que sua perguta é sobre Alice. Repare que o 「だ」 não foi usado mesmo que a tradução em português use o
+        verbo "ser" como "é" e "sou". Já que sabemos o assunto da conversa é Alice, nós não precisamos de mais nada para saber que Alice
+        é uma estudante. De fato, já que Bob está fazendo uma pergunta, ele não pode anexar o 「だ」. Isto seria como tentar afirmar algo e
+        fazer uma pergunta ao mesmo tempo.\n\n
+
+        <font color="#0F305C"><b>Exemplo 2</b></font>\n
+        ボブ：　ジム<font color="#008000">は</font>明日？- Jim é amanhã?\n
+        アリス：　明日じゃない。- Amanhã não.\n\n
+
+        Já que não temos nenhum contexto, não temos informação suficiente para achar algum sentido nessa conversa. Obviamente não há sentido
+        em Jim ser amanhã. Dado um contexto, e como a oração tem algo com Jim e amanhã, pode significar qualquer coisa. Por exemplo, eles
+        podem estar falando de quando um exame será feito.\n\n
+
+        <font color="#0F305C"><b>Exemplo 3</b></font>\n
+        アリス：　今日<font color="#008000">は</font>試験だ。- Hoje é prova.\n
+        ボブ：　ジム<font color="#008000">は</font>？ - E o Jim?\n
+        アリス：　ジムは明日。 - Jim é amanhã. (Para Jim, o exame será amanhã.)\n\n
+
+        Precisamos imaginar o quão genérico o assunto pode realmente ser. Um assunto pode ser referente à qualquer ação ou objeto de
+        qualquer lugar mesmo incluindo orações. Por exemplo, na última oração da conversa acima, mesmo que a oração sejá sobre quando
+        Jim fará a prova, a palavra "prova" não aparece em lugar algum da oração!\n\n\n
+
+
+        <big><big><b><u>A partícula inclusiva 「も」</u></b></big></big>\n\n
+
+        Outra partícula que é muito similar à de tópico é a partícula inclusiva. Ela é basicamente a partícula de tópico com um sentido
+        a mais de "também". Basicamente, ela pode incluir outro tópico na conversa atual. A partícula inclusiva é o caractere 「も」
+        e seu uso é melhor explicado por um exemplo.\n\n
+
+        <font color="#0F305C"><b>Exemplo 1</b></font>\n
+        ボブ：　アリスは学生？- Você(Alice) é estudante?\n
+        アリス：　うん、トム<font color="#008000">も</font>学生。- Sim, e Tom também é estudante.\n\n
+
+        Repare, que Alice precisa ser consistente com a inclusão. Não faria muito sentido dizer, "Eu sou uma estudante, e Tom também não
+        é um estudante." Ao invéz disto, Alice poderá usar a partícula 「は」 para remover o sentido adicional da inclusão como visto no
+        próximo exemplo.\n\n
+
+        <font color="#0F305C"><b>Exemplo 2</b></font>\n
+        ボブ：　アリスは学生？- Você(Alice) é estudante?\n
+        アリス：　うん、でもトム<font color="#008000">は</font>学生じゃない。- Sim, mas Tom não é estudante.\n\n
+
+        <font color="#0F305C"><b>Exemplo 3</b></font>\n
+        Existe outra possibilidade.\n
+        ボブ：　アリスは学生？- Você(Alice) é estudante?\n
+        アリス：　ううん、トム<font color="#008000">も</font>学生じゃない。- Não, e Tom também não é estudante.\n\n
+
+        Mas por que Alice, do nada, fala sobre Tom quando Bob está perguntando sobre ela? Talvez Tom esteja próximo à ela e ela queira
+        incluir Tom na conversa.\n\n\n
+
+
+        <big><big><b><u>A particula identificadora 「が」</u></b></big></big>\n\n
+
+        Certo, então queremos identificar um novo assunto usando as partículas 「は」 e 「も」. Mas e se não soubermos sobre o que se fala?
+        E se quizermos perguntar, "Quem é estudante?” O que precisamos é de um tipo de identificador por que eu não sei quem o estudante é.
+        se eu usar a partícula de tópico, a pergunta pode se tornar, “O quem é estudante?” não faz sentido porquê "quem" não é uma pessoa.\n\n
+
+        É aí que a partícula 「が」 entra no jogo. Ela também é conhecida como partícula de assunto mas eu odeio este nome já que significa algo
+        totalmente diferente na gramática inglesa. Por isto, vou chamá-la de partícula identificadora por que ela indica o que o falante quer é
+        identificar algo não conhecido.\n\n
+
+        <font color="#0F305C"><b>Exemplo 1</b></font>\n
+        ボブ：　誰<font color="#008000">が</font>学生？- Quem é que é o estudante?\n
+        アリス：　ジム<font color="#008000">が</font>学生。- Jim é o estudante.\n\n
+
+        Bob quer identificar quem entre todos os possíveis candidatos é um estudante. Alice responde que é Jim. Repare, Alice também poderia
+        ter respondido com a partícula de tópico para isto, falando de Jim, ela sabe que ele é um estudante (talvez não o estudante). Você
+        poderá ver a diferença no próximo exemplo.\n\n
+
+        <font color="#0F305C"><b>Exemplo 2</b></font>\n
+        （１）　誰<font color="#008000">が</font>学生？ - Quem é que é o estudante?\n
+        （２）　学生は誰？- (O) estudante é quem?\n\n
+
+        Espero, que você possa ver que （１） procura identificar uma pessoa específica para \'estudante\' enquanto （２） está simplesmente
+        falando sobre o estudante. Você não pode substituir 「が」 com 「は」 em （１） porquê "quem" pode ser tornar o assunto e a pergunta
+        pode virar, "É quem um estudante?"\n\n
+
+        As duas partículas 「は」 e 「が」 podem parecer idênticas só porquê não é possível traduzir a diferença diretamente para o português.
+        Por exemplo, 「私は学生」 e 「私が学生」 ambos serem traduzidos como, "Eu sou estudante."* (*Bem técnicamente, é a tradução mais poxima devido à falta de contexto) Porém, eles só parecem iguais porquê o Português
+        não pode expressar a informação o contexto tão claramente quanto o Japonês algumas vezes consegue. Na primeira oração 「私は学生」,
+        já que 「私」 é o assunto, a sentença significa, "Falando sobre mim, eu sou um estudante". Porém, na segunda oração, 「私」 está
+        especificando quem o estudante é: 「学生」. Se quizermos sabe quem o estudante é, a partícula 「が」 nos informa que é 「私」.\n\n
+
+        Você também pode imaginar a particula 「が」 como sempre respondendo uma pergunta escondida. Por exeplo, se tivermos 「ジムが魚だ」,
+        estaremos respondendo à uma pergunta do tipo "Quem é o peixe?" ou "Que pessoa é o peixe?" ou talvez "Que comida Jim gosta?" Ou dada
+        a oração, 「これが車」, podemos responder à pergunta , "Qual carro?" ou "Qual é o carro?" As partículas 「は」 e 「が」 são diferentes se
+        você pensar da forma correta. A partícula 「が」identifica uma propriedade específica de algo enquanto a partícula 「は」 é usada somente
+        para trazer um novo assunto à conversa. Este é o porquê de, em orações longas, é comum separar o assunto com vírgulas para remover
+        qualquer ambigüidade sobre qual parte da oração o assunto se refere.
+    </string>
+//
+
+//10
+    <string name="textEstudo10a">
+        <font color="#0F305C"><big><b><u>Propriedades dos Adjetivos</u></b></big></font>\n\n
+
+        Agora que podemos unir dois substantivos de várias formas usando partículas, queremos descrevê-los usando adjetivos. Um adjetivo pode modificar diretamente o substantivo que o segue. Também pode ser conectado da mesma forma que com os substantivos usando partículas. Os adjetivos podem ser divididos em duas categorias: adjetivos-na e adjetivos-i. Veremos a diferença entre elas e como se comportam em sentenças.\n\n\n
+
+
+        <big><big><b><u>O Adjetivo-na</u></b></big></big>\n\n
+
+        O adjetivo-na é bem simples de aprender porque ele age como um substantivo. De fato, eles são muito familiares; você pode assumir que eles têm o mesmo comportamento a não ser que eu especifique as diferenças. Uma grande diferença é que um adjetivo-na pode modificar diretamente um substantivo que o segue fixando 「な」 entre o adjetivo e o substantivo. (Por isto o nome, adjetivo-na.)\n\n
+
+        （１）　静か<font color="#008000">な</font>人。- Pessoa quieta.\n\n
+
+        Além desta modificação direta do substantivo que requer um 「な」, você também pode dizer que um substantivo é um adjetivo usando a partícula de assunto ou identificadora em uma sentença estruturada como [Substantivo] [Partícula] [Adjetivo] (por exemplo 「人は静か」） Esta é básicamente a mesma coisa que o estado-de-ser com substantivos que vimos nas últimas 2 seções. Porém, já que não faz sentido substantivos serem adjetivos, você não pode ter uma sentença do tipo [Adjetivo] [Partícula] [Substantivo] （por exemplo 「静かが人」）. O que é óbvio, como por exemplo, enquanto uma pessoa pode ser quieta, não faz sentido que quieta seja uma pessoa.\n\n
+
+        （１）　友達は親切。- O amigo é gentil.\n\n
+
+        （２）　友達は親切な人。- O amigo é uma pessoa gentil.\n\n
+
+        Lembre-se como os adjetivos-na se comportam exatamente como se fossem substantivos? Bem, poderá ver isto nos próximos exemplos.\n\n
+
+        （１）　ボブは魚が<font color="#008000">好きだ</font>。- Bob gosta de peixe.\n\n
+
+        （２）　ボブは魚が<font color="#008000">好きじゃない</font>。- Bob não gosta de peixe.\n\n
+
+        （３）　ボブは魚が<font color="#008000">好きだった</font>。- Bob gostava de peixe.\n\n
+
+        （４）　ボブは魚が<font color="#008000">好きじゃなかった</font>。- Bob não gostava de peixe.\n\n
+
+        As conjugações parecem familiar? Deveriam se você tiver prestado atenção na seção sobre as conjugações do estado-de-ser dos substantivos. Se te incomodar que "gostar" seja um adjetivo e não um verbo em japonês, você pode pensar que 「好き」 significa "desejável". Além disto, você pode ver um bom exemplo das partículas de assunto e identificação trabalhando em harmonia. A sentença é sobre o sujeito "Bob" e o assunto "peixe" identifica claramente o que Bob gosta.\n\n
+
+        Você também pode usar as últimas três conjugações para modificar diretamente o substantivo. (Lembre-se de anexar o 「な」 para a forma positiva não-passada.)\n\n
+
+        （１）　魚が<font color="#008000">好きな</font>タイプ。- Tipos que gostam de peixe.\n\n
+
+        （２）　魚が<font color="#008000">好きじゃない</font>タイプ。- Tipos que não gostam de peixe.\n\n
+
+        （３）　魚が<font color="#008000">好きだった</font>タイプ。- Tipos que gostavam de peixe.\n\n
+
+        （４）　魚が<font color="#008000">好きじゃなかった</font>タイプ。- Tipos que não gostavam de peixe.\n\n
+
+        Aqui, toda a oração 「魚が好き」、「魚が好きじゃない」、etc. está modificando "tipo(s)" sobre tipos (se pessoas) que gostam ou não gostam de peixe. Você pode ver que esse tipo de oração é útil porque 「タイプは魚が<font color="#008000">好きだ</font>。」 pode significar "O tipo de peixe", o que não faz muito sentido.\n\n
+
+        Podemos ainda tratar toda a oração descritiva substantiva como um simples substantivo. Por exemplo, nós podemos fazer de toda a oração um assunto como no próximo exemplo.\n\n
+
+        （１）　<font color="#008000">魚が好きじゃないタイプ</font>は、肉が好きだ。\n
+        - Tipos (de pessoas) que não gostam de peixe, gostam de carne.\n\n\n
+
+
+        <big><big><b><u>O Adjetivo-i</u></b></big></big>\n\n
+
+        O adjetivo-i é chamado assim por que sempre termina com o caractere de hiragana 「い」. Este é um okurigana que mudará conforme você conjugue o adjetivo. Mas você pode encontrar adjetivos-na que também terminam em 「い」 como 「きれい（な）」. Então como diferenciá-los? A má notícia é que não há realmente uma forma de diferenciá-los com certeza. Mas, a boa notícia é que eu só consigo lembrar em dois exemplos de adjetivos-na que terminam com 「い」 que são geralmente escritos com hiragana: 「きれい」 e 「嫌い」. Todos os outros adjetivos-na que eu conheço que terminam em 「い」 são geralmente escritos com kanjis e por isto você poderá facilmente perceber que não são um adjetivo-i. Por exemplo, no caso de 「きれい」, que é 「綺麗」 ou 「奇麗」 em kanji, já que a parte 「い」 de 「麗」 é apresentada no kanji, você sabe que não pode ser um adjetivo-i. Este é o porquê de toda a conversa sobre o 「い」 nos adjetivos-i é para permitir a conjugação se precisar afetar o kanji. De fato, 「嫌い」 é o único adjetivo-na que eu conheço que termina em hiragana 「い」 sem o kanji. Isto deve-se ao fato de que 「嫌い」 é na verdade derivado do verbo 「嫌う」.\n\n
+
+        Lembra-se de como a negação do estado-de-ser para substantivos também terminam em 「い」 （じゃない）? Bem, você pode tratá-los como adjetivos-i da mesma forma que a negação do estado-de-ser para substantivos. E assim como a negação do estado de ser para substantivos, você não pode anexar o declarativo 「だ」 para adjetivos-i assim como nos substantivos ou adjetivos-na.\n\n
+
+        <b>NÃO use 「だ」 junto com adjetivos-i.</b>\n\n
+
+        Agora que você já sabe a diferença, podemos aprender as regras de conjugação para os adjetivos-i. Existem duas novas regras para conjugá-los. Para negar uma oração, primeiro tiramos o 「い」, para então adicionarmos 「くない」 para a forma negativa ou 「かった」 para a forma passada. Já que 「くない」 termina com 「い」, você também pode lidar com a forma negativa como se fosse outro adjetivo-i. Por tanto, a regra para a conjugação negativa é a mesma que a das formas positiva e passada.\n\n
+
+        <font color="#B53834"><b>Regras de conjugação dos adjetivos-i</b></font>\n
+        <b>Negação:</b> Primeiro retire o 「い」 do adjetiv-i e substituá-o por 「くない」\n
+        Exemplo:　高<font color="#008000"><s>い</s></font> → 高<font color="#008000">くない</font>\n
+        <b>Passado:</b> Primeiro remova o 「い」 do adjetivo-i ou da negação e então substituá-o por 「かった」\n
+        Exemplo:　高<font color="#008000"><s>い</s></font> → 高<font color="#008000">かった</font>\n
+        Exemplo:　高くな<font color="#008000"><s>い</s></font> → 高くな<font color="#008000">かった</font>\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>Resumos dos Adjetivos-i</u></b></big></font>
+    </string>
+    <!--tableAdjI-->
+    <string name="textEstudo10b">
+        É possível modificar diretamente os substantivos, anexando-o ao adjetivo.\n\n
+
+        （１）　<font color="#008000">高い</font>ビル。- O edifício é alto.\n\n
+
+        （２）　<font color="#008000">高くない</font>ビル。- O edifício não é alto.\n\n
+
+        （３）　<font color="#008000">高かった</font>ビル。- O edifício era alto.\n\n
+
+        （４）　<font color="#008000">高くなかった</font>ビル。- O edifício não era alto.\n\n
+
+        Você também pode unir vários adjetivos de forma sucessiva em qualquer forma.\n\n
+
+        （１）　<font color="#008000">静かな高い</font>ビル。- Um edifício alto e calmo.\n\n
+
+        （２）　<font color="#008000">高くない静かな</font>ビル。- Um edifício que não é alto, mas calmo.\n\n
+
+        Repare que você pode construir o mesmo tipo de oração descritiva substativa como fizemos com os adjetivos-na. A única diferença, é claro, é que não precisamos do 「な」 para modificar diretamente o substantivo. No exemplo seguinte, a oração descritiva 「値段が高い」 está modificando diretamente 「レストラン」.\n\n
+
+        （１）　<font color="#008000">値段が高いレストラン</font>はあまり好きじゃない。\n
+        - Não gosto muito de restaurantes caros.\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>Uma exceção chata</u></b></big></font>\n\n
+
+        Existe um adjetivo-i que significa "bom" que age de forma ligeiramente diferente de todos os outros. Este é um caso clássico de como aprender japonês é difícil para iniciantes, por que as palavras mais comuns têm as maiores exceções. A palavra para "bom" era originalmente 「よい（良い）」. Porém, com o tempo, tornou-se 「いい」. Quando escrito em kanji, é geralmente lido como 「よい」 então 「いい」 aparece quase sempre em hiragana. Está tudo muito bem. Mas infelizmente, todas as conjugações ainda derivam de 「よい」 e não de 「いい」. Isto é mostrado na próxima tabela.\n\n
+
+        Outro adjetivo que age assim é 「かっこいい」 por que é uma versão abreviada de duas palavras unidas: 「格好」 and 「いい」. Já que usam o mesmo 「いい」, é preciso as mesmas conjugações.\n\n
+
+        <font color="#0F305C"><big><b><u>Conjugação para 「いい」</u></b></big></font>
+    </string>
+    <!--tableAdjConjIi-->
+    <string name="textEstudo10c">
+        <font color="#0F305C"><big><b><u>Conjugação para 「かっこいい」</u></b></big></font>
+    </string>
+    <!--tableAdjConjKakkoii-->
+    <string name="textEstudo10d">
+        Tenha certeza de fazer as conjugações de 「よい」 e não de 「いい」.\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n\n
+
+        （１）　値段があんまり<font color="#008000">よくない</font>。\n
+        - O preço não é muito bom.\n\n
+
+        （２）　彼は<font color="#008000">かっこよかった</font>！\n
+        - Ele estava muito bonito!
+    </string>
+//
+
+//1
+    <string name="textEstudo11">
+        <font color="#0F305C"><big><b><u>Apresentando os verbos</u></b></big></font>\n\n
+
+        Agora podemos descrever substantivos de várias formas usando outros substantivos e adjetivos. Isto nos dá uma grande capacidade. Mas, ainda não podemos expressar ações. E é aqui que os verbos entram em ação. Verbos, no japonês, sempre vêm no fim da oração. E já que ainda não aprendemos como criar mais de uma oração, por enquanto qualquer sentença com um verbo precisa terminar com o verbo. Aprenderemos agora as duas principais categorias de verbos, as quais nos permitirão definir de forma precisa as regras da conjugação. Antes de aprender sobre verbos, Há algo importante que você saiba.\n\n
+
+        <b>Uma sentença gramaticalmente completa requer somente um verbo (incluindo o estado-de-ser).</b>\n\n
+
+        Ou para reformular a frase, diferente do inglês, a única coisa que precisará ser feita para tornar a sentença gramaticalmente completa é um verbo e nada mais! Entender esta propriedade fundamental é essencial para entender japonês.´ Este é o por que de mesmo a mais básica sentença japonesa não pode ser traduzida para o inglês! Todas as conjugações começarão a partir da forma do dicionário (como elas aparecem no dicionário).\n\n
+
+        Uma sentença gramaticalmente completa\n
+        （１）　食べる。- Como. (traduções possíveis seriam: Eu como/ele(a) come/eles(as) comem)\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>Classificando entre verbos-ru e verbos-u</u></b></big></font>\n\n
+
+        Quase todo verbo em japonês pode ser classificado em uma de duas categorias: verbo-ru （一段動詞） e verbos-u （五段動詞）. Os dois únicos verbos que não são considerados como e nenhuma das categorias são 「する」 que significa "fazer" e 「来る」 que significa "vir". Caso contrário, as regras de conjugação serão sempre as mesmas dependendo de qual classe o verbo pertença. A forma de diferenciá-los é um muito simples e padrão.\n\n
+
+        Lembre-se, todo e qualquer verbo têm uma parte em kana chamada okurigana, a qual você pode modificar para conjugar o verbo. Bem, se você converter o verbo para caracteres romanos (a isto dá-se o nome 「ローマ字」 em japonês) se terminar com "iru" ou "eru", então é um verbo-ru. Por exemplo, 「食べる」 é romanizado como "tab<font color="#008000">eru</font>" e já que termina com "eru", é um verbo-ru. Outro exemplo de um verbo-ru é 「起きる」, que é romanizado como "ok<font color="#008000">iru</font>". Todos os outros são verbos-u.\n\nExistem algumas exceções à essa regra onde verbos que deveriam ser verbos-ru são na verdade verbos-u. Repare que verbos-ru sempre terminam em 「る」 e verbos-u sempre terminam em a / u / som de vogal. Isto infelizmente inclui o 「る」, além de 「つ」、「す」、「く」、「ぐ」、「む」、「ぶ」、「う」、e 「ぬ」 （「死ぬ」 é o único verbo que termina com 「ぬ」）.\n\nPor causa do padrão auditivo nas regras, após um tempo os verbos começarão a "soar" como verbos-u assim como com os verbos-ru. Mas até lá, é possível que você tenha dificuldade para diferenciar verbos-ru e verbos-u então, se você tiver dúvidas, o aplicativo <font color="#0F305C"><b><u><a href="https://play.google.com/store/apps/details?id=ric.Jsho&amp;hl=pt&amp;gl=BR">Jsho - Japanese Dictionary</a></u></b></font>, apresentado no tópico \"2.Recursos Úteis\", dirá a qual classe cada verbo pertence.\n\n
+
+        <font color="#0F305C"><b>Exemplos de verbos-ru</b></font>\n
+        食べる - tab<font color="#008000">eru</font>\n
+        着る	- k<font color="#008000">iru</font>\n
+        信じる - shinj<font color="#008000">iru</font>\n
+        寝る	- n<font color="#008000">eru</font>\n
+        起きる - ok<font color="#008000">iru</font>\n
+        出る	- d<font color="#008000">eru</font>\n
+        掛ける - kak<font color="#008000">eru</font>\n
+        捨てる - sut<font color="#008000">eru</font>\n
+        調べる - shirab<font color="#008000">eru</font>\n\n
+
+        <font color="#0F305C"><b>Exemplos de verbos-u</b></font>\n
+        話す	- hanasu\n
+        聞く	- kiku\n
+        泳ぐ	- oyogu\n
+        遊ぶ	- asobu\n
+        待つ	- matu\n
+        飲む	- nomu\n
+        直る	- naoru\n
+        死ぬ	- shinu\n
+        買う	- kau\n\n
+
+        <font color="#0F305C"><b>Exceções: não são nem verbos-ru nem verbos-u</b></font>\n
+        する	- suru\n
+        くる	- kuru\n\n\n
+
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n
+        Aqui estão alguns exemplos de sentenças usando verbos-ru, verbos-u e algumas exceções.\n
+        （１）　アリスは<font color="#008000">食べる</font>。- Alice come.\n
+        （２）　ジムが<font color="#008000">遊ぶ</font>。- É o Jim quem toca.\n
+        （３）　ボブも<font color="#008000">する</font>。- Bob também faz.\n
+        （４）　お金が<font color="#008000">ある</font>。- Há dinheiro. (lit: Como para dinheiro, ele existe.)\n
+        （５）　私は<font color="#008000">買う</font>。- Como para eu, compro.\n
+        （６）　猫は<font color="#008000">いる</font>。- Há gato. (lit: Como para gato, ele existe\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>Apêndice: verbos-u iru/eru</u></b></big></font>\n\n
+
+        Aqui está uma lista de verbos-u comumente usados que terminam em "iru" ou "eru". Esta lista está categorizada aproximadamente em três níveis para ajudar você a focar nos verbos que você precisa aprender. Esta lista não é planejada para incluir todos os verbos sob o sol.\n\n
+
+        <font color="#0F305C"><big><b><u>verbos-u iru/eru agrupados (aproximadamente) por nível</u></b></big></font>
+    </string>
+    <!--tableVerbsBasic-->
+//
+
+//12
+    <string name="textEstudo12a">
+        <font color="#0F305C"><big><b><u>Verbos negativos</u></b></big></font>\n\n
+
+        Agora que vimos como declarar coisas e executar ações com verbos, queremos ser capazes de negar. Queremos dizer que tal ação não foi executada. Verbos são negados ao conjugá-los em suas formas negativas assim como no estado-de-ser para substantivos e adjetivos. Porém, as regras são um pouquinho mais complicadas.\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>Conjugando verbos na forma negativa</u></b></big></font>\n\n
+
+        Usaremos a classificação dos verbos para definir as regras de conjugação. Mas antes de começarmos, precisamos conhecer uma exceção muito importantei para as regras de conjunção negativa: 「ある」. 「ある」 é um verbo-u usado para expressar a existência de objetos inanimados.\n\n
+
+        Por exemplo, se você quizer dizer que uma cadeira está no quarto, você poderia usar o verbo 「ある」. O verbo equivalente para objetis animados (como pessoas ou animais) é 「いる」 que é o verbo-ru normal. Se você queria dizer que alguém estava dentro do quarto, você deve usar o verbo 「いる」 e não 「ある」. Ambos os verbos 「ある」 e 「いる」 são muito diferentes de todos os outros verbos por que eles não representam uma ação, e sim a existência. Você também deve se preocupar em usar o correto para objetos animados e inanimados.\n\n
+
+        De qualquer maneira, a rasão pela qual eu te trouxe aqui é que a negação e 「ある」 (que significa que algo não existe) é 「ない」. Lembre que esta é uma exceção então não use as regras normais de negação para 「ある」.\n\n
+
+        <b>A forma negativa de 「ある」 é 「ない」.</b>\n\n
+
+        Aqui estão as regras para todos os outros verbos. Para negar um verbo-ru, simplesmente substitua o 「る」 por 「ない」. Para verbos-u, pode ser útil ver a versão romanizada do verbo, onde basta simplesmente substituir o /u/ do final do verbo por "anai". Ou, preferivelmente, você pode olhar lá atrás na tabela de hiragana. Você pega o último caractere hiragana que sempre estará na coluna /u/ (pois todos verbos-u terminam com /u/) e vá para a o lado, até a coluna /a/. Por exemplo 「く」 muda para 「か」.\n\n
+
+        Uma exceção importante à esta regra é que em verbos que terminam em 「う」 é preciso substituir o 「わ」 por 「う」 e não 「あ」 como a regra sugere. Você terá que memorizar as conjugações para ambas as exceções e 「ある」. A tabela seguinte mosta a conjugação para exemplos de verbos e as exceções.\n\n
+
+        Como conjugar verbos na forma negativa\n\n
+
+        verbos-ru: Para conjugar verbos-ru na forma negativa, substitua o último 「る」 por 「ない」.\n
+        Exemplo:　見<font color="#008000"><s>る</s></font> → 見<font color="#008000">ない</font>\n
+        Exemplo:　出<font color="#008000"><s>る</s></font> → 出<font color="#008000">ない</font>\nn
+
+        verbos-u: Para conjugar verbos-u na forma negativa, primeiro substitua o último caractere / u / com o de som / a / equivalente e anexe 「ない」 ao resultado.\n
+        Exemplo:　飲<font color="#008000"><s>む</s></font> → 飲<font color="#008000">ま</font> → 飲ま<font color="#008000">ない</font>\n
+        Exemplo:　待<font color="#008000"><s>つ</s></font> → 待<font color="#008000">た</font> → 待た<font color="#008000">ない</font>\nn
+
+        ※ Uma exceção importante são os verbos que terminam em 「う」. Para estes, é preciso substituir 「う」 por 「わ」 （não por 「あ」） e anexar o 「ない」 ao resultado.\n
+        Exemplo:　拾<font color="#008000"><s>う</s></font> → 拾<font color="#008000">わ</font> → 拾わ<font color="#008000">ない</font>\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>Exemplos de verbos-ru</u></b></big></font>\n\n
+    </string>
+    <!--table negRu-->
+    <string name="textEstudo12b">
+        <font color="#0F305C"><big><b><u>Exemplos de verbos-ru</u></b></big></font>\n\n
+    </string>
+    <!--table negU-->
+    <string name="textEstudo12c">
+        <font color="#0F305C"><big><b><u>Exceções</u></b></big></font>
+    </string>
+    <!--table negExc-->
+    <string name="textEstudo12d">
+        ＊ = exceções particulares à esta conjugação
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n
+        （１）　アリスは食べない。- Alice não come.\n
+        （２）　ジムが遊ばない。- Jim é quem não toca.\n
+        （３）　ボブもしない。- Bob também não faz.\n
+        （４）　お金がない。- Não há dinheiro.\n
+        （５）　私は買わない。- Não compro.\n
+        （６）　猫はいない。- Não há gato.
+    </string>
+//
+
+//13
+    <string name="textEstudo13a">
+        <font color="#0F305C"><big><b><u>Mudando verbos para o pretérito</u></b></big></font>\n\n
+
+        Nós terminaremos todas as propriedades básicas dos verbos aprendendo como expressar o passado e o passado negativo das ações. Eu avisarei você que as regras de conjugação nesta seção serão as mais complexas regras que você aprenderá em todo o japonês. Por um lado, assim que você tiver aprendido esta seção, todas as outras regras de conjugação parecerão simples. Por outro lado, você poderá se referir a esta seção muitas vezes antes que você aprenda todas as regras. Você provavelmente precisará de muita prática até se tornar familiar com todas as diferentes conjugações.\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>Pretérito para verbos-ru</u></b></big></font>\n\n
+
+        Nós começaremos com a fácil categoria verbos-ru. Para mudar um verbo-ru da forma do dicionário para o pretérito, você simplesmente tira o「る」 e adiciona「た」.\n\n
+
+        <font color="#B53834"><b>Para mudar verbos-ru para o pretérito</b></font>\n
+        Tire o「る」do verbo-ru e adicione「た」\n
+        Exemplo: 出<font color="#008000"><s>る</s></font> → 出<font color="#008000">た</font>\n
+        Exemplo: 捨て<font color="#008000"><s>る</s></font> → 捨て<font color="#008000">た</font>\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n\n
+
+        （１）　ご飯は、<font color="#008000">食べた</font>。\n
+        - Sobre a refeição, comeu.\n\n
+
+        （２）　映画は、全部<font color="#008000">見た</font>。\n
+        - Sobre o filme, assistiu todos.\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>Pretérito para verbos-u</u></b></big></font>\n\n
+
+        Mudando um verbo-u do dicionário para o passado é difícil porque nós precisamos quebrar verbos-u em quatro cotegorias adicionais. Estas quatro categorias dependem do último caractere do verbo. A tabela abaixo ilustra as diferentes sub-categorias. Além do que, há uma exceção para as regras, que é o verbo「行く」. Eu o coloquei com as exceções regulares 「する」 e 「来る」 apesar de que「行く」 é um verbo-u regular em todas as outras conjugações.\n\n
+
+        <font color="#0F305C"><big><b><u>Pretérito dos verbos-u</u></b></big></font>
+    </string>
+    <!--table pastU-->
+    <string name="textEstudo13b">
+        <font color="#0F305C"><big><b><u>Exceptions</u></b></big></font>
+    </string>
+    <!--table pastExc-->
+    <string name="textEstudo13c">
+        * Exceções particulares a esta conjugação\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n\n
+
+        （１）　今日は、<font color="#008000">走った</font>。\n
+        - Sobre hoje, correu.\n\n
+
+        （２）　友達が<font color="#008000">来た</font>。\n
+        - Amigo é o que veio.\n\n
+
+        （３）　私も<font color="#008000">遊んだ</font>。\n
+        - Eu também joguei.\n\n
+
+        （４）　勉強は、<font color="#008000">した</font>。\n
+        - Sobre dever de casa, o fiz.\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>Pretérito negativo para todos os verbos</u></b></big></font>\n\n
+
+        As regras de conjugação para o passado negativo são as mesmas para todos os verbos. Você pode ter notado que a forma negativa de quase tudo termina em「ない」. A regra de conjugação para o pretérito negativo dos verbos é a mesma que todas as outras formas negativas que terminam em「ない」. Você simplesmente pega a forma negativa de qualquer verbo, remove o「い」da terminação「ない」, e substitui com「かった」.\n\n
+
+        <font color="#B53834"><b>Para mudar verbos para o pretérito negativo</b></font>\n
+
+        Mude o primeiro verbo para a forma negativa e substitui o「い」com「かった」\n
+        Exemplo: 捨て<font color="#008000">る</font> → 捨てな<font color="#008000"><s>い</s></font> → 捨てな<font color="#008000">かった</font>\n
+        Exemplo: 行<font color="#008000">く</font> → 行かな<font color="#008000"><s>い</s></font> → 行かな<font color="#008000">かった</font>\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n\n
+
+        （１）　アリスは<font color="#008000">食べなかった</font>。\n
+        - Sobre a Alice, não comeu.\n\n
+
+        （２）　ジムが<font color="#008000">しなかった</font>。\n
+        - jim é aquele que não fez.\n\n
+
+        （３）　ボブも<font color="#008000">行かなかった</font>。\n
+        - Bob também não foi.\n\n
+
+        （４）　お金が<font color="#008000">なかった</font>。\n
+        - Não havia dinherio. (lit:Sobre dinherio, não existia.)\n\n
+
+        （５）　私は<font color="#008000">買わなかった</font>。\n
+        - Sobre mim, eu não comprei.\n\n
+
+        （６）　猫は<font color="#008000">いなかった</font>。\n
+        - Não havia gato. (lit: Sobre o gato, não existia.)
+    </string>
+//
+
+//14
+    <string name="textEstudo14" tools:ignore="TypographyEllipsis">
+        <font color="#0F305C"><big><b><u>Partículas usadas com verbos</u></b></big></font>\n\n
+
+        Nesta seção, vamos aprender algumas novas partículas essenciais para o uso de verbos. Basicamente, vamos aprender como especificar o objeto direto de um verbo e o local onde se executa o verbo, seja físico ou abstrato.\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>A partícula de objeto direto 「を」</u></b></big></font>\n\n
+
+        A primeira partícula que vamos aprender é a partícula de objeto direto, porque é uma partícula muito simples. O caractere 「を」 é anexado ao fim de uma palavra para indicar que aquela palavra é o objeto direto do verbo. Esse caractere não é usado em basicamente nenhum outro lugar. Isto explica por que o equivalente em katakana　「ヲ」 quase nunca é usado, desde que partículas são sempre escritas em hiragana. O caractere 「を」, enquanto tecnicamente é pronunciado /wo/, soa como /o/ na fala real. Aqui estão alguns exemplos da partícula de ojbeto direto em ação.\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n\n
+
+        （１）　魚<font color="#008000">を</font>食べる。\n
+        - Comer peixe.\n\n
+
+        （２）　ジュー ス<font color="#008000">を</font>飲んだ。\n
+        - Bebeu suco.\n\n
+
+        Diferente do tipo de objeto direto que estamos familiarizados do Português, lugares também podem ser o objeto direto de verbos de movimento, tais como 「歩く」 e 「走る」. Desde que o verbo de movimento é feito ao local, o conceito de objeto direto é o mesmo no Japonês. Porém, como você pode ver pelos próximos exemplos, a tradução é frequentemente feita de maneira diferente em Português, dada a sutil diferença do conceito de objeto direto.\n\n
+
+        （３）　街<font color="#008000">を</font>ぶ らぶら歩 く。\n
+        - A esmo andar pela cidade. (Lit: A esmo andar cidade)\n\n
+
+        （４）　高 速道 路<font color="#008000">を</font>走る。\n
+        - Correr pela via expressa. (Lit: Correr via expressa)\n\n
+
+        Quando você usa 「する」 com um substantivo, a partícula 「を」 é opcional, e você pode tratar todo o [substantivo+する] como um verbo.\n\n
+
+        （５）　毎日、日本語<font color="#008000">勉強する</font>。\n
+        - Estudar japonês todo dia.\n\n
+
+        （６）　メー ルアドレス<font color="#008000">を登録した</font>。\n
+        - Endereço de e-mail registrado.\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>A partícula de objetivo 「に」</u></b></big></font>\n\n
+
+        A partícula 「に」 pode especificar o objetivo de um verbo. Isso é diferente da partícula 「を」, na qual o verbo faz algo ao objeto direto. Com a partícula 「に」, o verbo faz algo em direção à palavra associada com a partícula 「に」. Por exemplo, o objetivo de qualquer verbo de movimento é especificado pela partícula 「に」.\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n\n
+
+        （１）　ボブは日 本<font color="#008000">に</font>行った。\n
+        - Bob foi ao Japão.\n\n
+
+        （２）　家<font color="#008000">に</font>帰らない。\n
+        - Não voltar para casa. (Nota do tradutor: lembre-se que, no Português, a frase "voltar para casa", apesar de ser muito falado na linguagem coloquial, é uma expressão errada. O correto seria "voltar à casa", pois, no Português, verbos de movimento sempre pedem "à/ao". O mesmo erro é muito visto na frase "chegar em casa", quando o correto é na verdade "chegar à casa". Portanto, não se confunda com o fato de que o "à/ao" muda para "para" de repente; essa frase apenas foi escrita assim porque é como estamos acostumados. O correto seria "Não voltar à casa".)\n\n
+
+        （３）　部屋<font color="#008000">に</font>くる。\n
+        - Vir ao quarto.\n\n
+
+        Como você pode ver no exemplo （３）, a partícula de objetivo sempre significa "à/ao" em vez de "de". Se você quisesse dizer, "vir de", por exemplo, você teria que usar 「から」, que significa "de".  Se você usasse 「に」 no lugar, significaria "vir à", e não "vir de".　 「から」 é frequentemente colocado em par com 「まで」, que significa "até".\n\n
+
+        （４）　アリスは、アメリカ<font color="#008000">から</font>きた。\n
+        - Alice veio da América.\n\n
+
+        （５）　宿題を今日<font color="#008000">から</font>明日<font color="#008000">まで</font>する。\n
+        - Fazer lição de casa de hoje até amanhã.\n\n
+
+        A idéia de objetivo no Japonês é muito comum e não é restrita aos verbos de movimento. Por exemplo, o local de um objeto é definido como o objetivo do verbo de existência （ある and い る）. O tempo é outro objetivo muito comum (espaços de tempo, etc). Aqui estão alguns exemplos de verbos que não são de movimento e seus objetivos.\n\n
+
+        （６）　猫は部屋<font color="#008000">に</font>いる。\n
+        - Gato está no quarto.\n\n
+
+        （７）　椅子が台所<font color="#008000">に</font>あった。\n
+        - Cadeira estava na cozinha.\n\n
+
+        （８）　いい友達<font color="#008000">に</font>会った。\n
+        - Encontrou-se com bom amigo.\n\n
+
+        （９）　ジムは医 者<font color="#008000">に</font>なる。\n
+        - Jim se tornará médico. (Lit: Jim se converterá em médico)\n\n
+
+        （１０）　先 週<font color="#008000">に</font>図書館<font color="#008000">に</font>行った。\n
+        - Foi à biblioteca na semana passada.\n\n
+
+        Nota: Não se esqueça de usar 「ある」 para objetos inanimados (Ex: cadeira) e 「いる」 para objetos animados (Ex: gato).\n\n
+
+        Enquanto a partícula　「に」 não é sempre necessária para indicar tempo, há uma sutil diferença de significado entre uma frase na qual se a partícula de objetivo e uma frase onde não se usa. Nos exemplos seguintes, a partícula de objetivo faz da data um objetivo específico, colocando ênfase na data em que o amigo irá ao Japão. Sem a partícula, não há nenhuma ênfase em especial.\n\n
+
+        （１１）　友達は、来年、日本に行く。\n
+        - Ano que vem, amigo vai ao Japão.\n\n
+
+        （１２）　友達は、来年に日本<font color="#008000">に</font>行く。\n
+        - Amigo vai ao Japão no ano que vem.\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>A partícula direcional 「へ」</u></b></big></font>\n\n
+
+        Enquanto 「へ」 é normalmente pronunciado /he/, quando está sendo usado como partícula, é sempre prnunciado como /e/ （え）. A diferença principal entre as partículas 「に」 e 「へ」 é que a partícula 「に」 vai a um objetivo que é o objetivo final que se deseja alcançar, seja físico ou abstrato. Por outro lado, a partícula 「へ」 é usada pra expressar o fato de que alguém está indo em direção ao objetivo. Como resultado, é usada apenas em verbos de movimento direcionais. Ela também não garante se o apontado objetivo é a destinação final, mas apenas que alguém está indo naquela direção. Em outras palavras, a partícula 「に」 persiste no destino final, enquanto a partícula 「へ」 é muito vaga e não deixa claro onde se deseja chegar como objetivo final. Por exemplo, se decidirmos trocar 「に」 por 「へ」 nos primeiros três exemplos da seção anterior, a nuança muda sutilmente.\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n\n
+
+        （１）　ボブは日 本<font color="#008000">へ</font>行った。\n
+        - Bob foi <font color="#008000">em direção ao</font> Japão.\n\n
+
+        （２）　家<font color="#008000">へ</font>帰らない。\n
+        - Não voltar <font color="#008000">em direção a</font> casa.\n\n
+
+        （３）　部 屋<font color="#008000">へ</font>くる。\n
+        - Vir <font color="#008000">em direção</font> ao quarto.\n\n
+
+        Note que não podemos usar a partícula 「へ」 com verbos que não têm direção física. O exemplo seguinte está incorreto.\n\n
+
+        Erro:　医 者<font color="#008000"><s>へ</s></font>なる。\n
+        - （Versão gramaticalmente incorreta de 「医者になる」.）\n\n
+
+        Mas isso não quer dizer que 「へ」 não pode ir em direção a algum conceito abstrato. De fato, dado o significado vago dessa partícula, 「へ」 pode ser usado para falar sobre ir em direção a expectativas ou metas futuras.\n\n
+
+        （４）　勝ち<font color="#008000">へ</font>向かう。\n
+        - Ir em direção à vitória.\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>A partícula contextual 「で」</u></b></big></font>\n\n
+
+        A partícula　「で」 nos permitirá especificar o contexto onde a ação é efetuada. Por exemplo, se uma pessoa comeu peixe, onde ela comeu? Se uma pessoa foi à escola, foi por meio de quê? Com o que você vai comer a sopa? Todas estas questões podem ser respondidas com a partícula 「で」. Aqui estão alguns exemplos.\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n\n
+
+        （１）　映画館<font color="#008000">で</font>見た。\n
+        - Viu filme no cinema.\n\n
+
+        （２）　バス<font color="#008000">で</font>帰る。\n
+        - Foi para casa de ônibus.\n\n
+
+        （３）　レストラン<font color="#008000">で</font>昼ご飯を食べた。\n
+        - Comeu almoço no restaurante.\n\n
+
+        Algo que pode ajudar é pensar em 「で」 como significando "por meio de". Desta maneira, o mesmo significado vai "se traduzir" no que a sentença realmente significa. Os exemplos então serão lidos: "Viu filme por meio de cinema", "Foi para casa por meio de ônibus" e "Comeu almoço por meio de restaurante".\n\n
+
+        <font color="#0F305C"><b>Usando 「で」 com 「何」</b></font>\n\n
+
+        A palavra para "que" （何） é bem irritante, porque enquanto é normalmente lida como 「なに」, algumas vezes é lida como 「なん」　dependendo de como é usada. Desde que é sempre escrita em Kanji, não podemos dizer de qual se trata a cada momento. Eu sugiro que você fique com 「なに」 até que alguém o corrija quando deveria ser 「なん」. Com a partícula 「で」, também se lê 「なに」.\n\n
+
+        （４）　何<font color="#008000">で</font>きた？\n
+        - Veio por meio de quê?\n\n
+
+        （５）　バス<font color="#008000">で</font>きた。\n
+        - Vim por meio de ônibus.\n\n
+
+        Aqui começa a parte complicada. Há uma versão coloquial da palavra "por que" que é usada muito mais frequentemente do que a versão menos coloquial 「どうして」 ou a mais enérgica 「なぜ」. Também é escrita 「何 で」 mas a leitura é　「なんで」. Isso é uma palavra totalmente independente e não tem nada a ver com a partícula 「で」.\n\n
+
+        （１）　<font color="#008000">何で</font>き た？\n
+        - Por que você veio?\n\n
+
+        （２）　暇だから。\n
+        - Porque estou livre (no sentido de não ter o que fazer).\n\n
+
+        Aqui o「から」 significando "porque" é diferente do 「から」 que acabamos de aprender e será discutido na seção de frases compostas. Basicamente, o problema é que as duas sentenças, apesar de escritas da mesma maneira, são lidas de maneiras diferentes e  significam coisas completamente diferentes. Mas não se preocupe. Isso causa menos confusão do que você imagina, porque em 95% do tempo, a segunda forma é usada em vez da primeira. E mesmo quando a intenção seja usar 「なにで」, o contexto não deixa dúvidas de qual está sendo usado.  Até neste pequeno exemplo, você pode dizer qual é qual ao olhar a resposta da pergunta.\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>Quando o lugar é o tópico</u></b></big></font>\n\n
+
+        Há vezes em que o lugar da ação também é o tópico da sentença. Você pode anexar as partículas de tópico （「は」 e 「も」） às três partículas que indicam local （「に」、「へ」、「で」） quando o local for o tópico. Vamos ver como o lugar pode virar o tópico nos próximos exemplos.\n\n
+
+        <font color="#0F305C"><b>Exemplo 1</b></font>\n\n
+
+        ボブ：　学校に行った？\n
+        - Foi à escola?\n\n
+
+        アリス：　行かなかった。\n
+        - Não fui.\n\n
+
+        ボブ：　図書館<font color="#008000">には</font>？\n
+        - E sobre a biblioteca?\n\n
+
+        アリス：　図書館<font color="#008000">にも</font>行かなかった。\n
+        - Também não fui à biblioteca.\n\n
+
+        Neste exemplo, Bob trouxe um novo assunto (biblioteca), então, o lugar virou o tópico. A sentença é na verdade uma versão abreviada de 「図書館に は行った？」, como você pode adivinhar pelo contexto.\n\n
+
+        <font color="#0F305C"><b>Exemplo 2</b></font>\n\n
+
+        ボブ：　どこで食べる？\n
+        - Comer aonde?\n\n
+
+        アリス：　イタリアレストラン<font color="#008000">では</font>どう？\n
+        - Que tal restaurante italiano?\n\n
+
+        Bob pergunta, "Onde devemos comer?", e Alice sugere um restaurante italiano. Uma sentença do tipo "Que tal..." usualmente traz um novo tópico porque a pessoa está sugerindo algo novo. Nesse caso, o lugar (restaurante) é o que está sendo sugerido, então, ele se torna o tópico.\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>Quando o objeto direto é o tópico</u></b></big></font>\n\n
+
+        A partícula de objeto direto é diferente das partículas relacionadas com lugares pois você não pode usar nenhuma outra partícula ao mesmo tempo. Por exemplo, repassando a seção anterior, talvez você tenha achado que seria possível dizer　「をは」 para expressar que o objeto direto é também o tópico, mas esse não é o caso. Um tópico pode ser um objeto direto sem usar a partícula 「を」. De fato, colocar a partícula 「を」 seria errado.\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n\n
+
+        （１）　日本語<font color="#008000">を</font>習う。\n
+        - Aprender Japonês.\n\n
+
+        （２）　日本語<font color="#008000">は</font>、習う。\n
+        - Sobre Japonês, (vou) aprender.\n\n
+
+        Por favor, tome cuidado para não cometer esse tipo de erro.\n
+        Erro:　日本語<font color="#008000"><s>をは</s></font>、習う。\n
+        - [Isso é incorreto.]
+    </string>
+//
+
+//15
+    <string name="textEstudo15a">
+        <font color="#0F305C"><big><b><u>Verbos Transitivos e Intransitivos</u></b></big></font>\n\n
+
+        No Japonês, as vezes existem dois tipos do mesmo verbo geralmente referidos como transitivo e intransitivo. A diferença entre os dois é que um verbo é uma ação feita por um agente ativo enquanto o outro é alguma coisa que ocorre sem um agente direto. No Português, isso é geralmente expressado pelo mesmo verbo como: "A bola caiu" x "Eu derrubei a bola" mas no Japonês isso vira: 「ボールが<font color="#008000">落ちた</font>」x 「ボールを<font color="#008000">落とした</font>」. As vezes, os verbos mudam quando traduzidos para Português como: "Por (alguma coisa) na caixa" (箱に入れる）x   "Entrar na caixa"（箱に入る）Mas isso é só por causa das diferenças entre as línguas. Se você pensar em Japonês, verbos transitivos e intransitivos tem o mesmo significado exceto aquele que indica que alguém teve uma participação direta na ação (objeto direto) enquanto o outro não. Enquanto saber a terminologia não é importante, é importante saber o que é o que para conseguir usar a partícula certa para o verbo certo.\n\n
+
+        Já que o sentido básico e o kanji é o mesmo, você pode aprender dois verbos pelo preço de um kanji! Vamos ver uma lista de exemplos de verbos transitivos e intransitivos.\n\n
+
+        <font color="#0F305C"><big><b><u>Verbos Transitivos e Intransitivos</u></b></big></font>
+    </string>
+    <!--tableTransitive-->
+    <string name="textEstudo15b">
+        \n<font color="#0F305C"><big><b><u>Preste atenção às Partículas</u></b></big></font>\n\n
+
+        Uma lição importante que deve ser tomada é  aprender como usar a partícula correta para o tipo de verbo correto. Pode ser difícil no começo determinar qual é qual enquanto estiver aprendendo novos verbos ou até se tem uma distinção entre transitivo e intransitivo. A boa notícia é que <big><big><b>APP</b></big></big> indica quando um verbo é transitivo ou intransitivo.\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n\n
+
+        （１）　私が電気<font color="#008000">を</font>つけた。- Eu sou aquele que ligou as luzes\n
+        （２）　電気<font color="#008000">が</font>ついた。- As luzes ligaram\n
+        （３）　電気<font color="#008000">を</font>消す。- Desligue as luzes.\n
+        （４）　電気<font color="#008000">が</font>消える。- As luzes desligaram.\n
+        （５）　誰が窓<font color="#008000">を</font>開けた？- Quem abriu a janela?\n
+        （６）　窓<font color="#008000">が</font>どうして開いた？- Porque a janela abriu?\n\n
+
+        O importante é lembrar que verbos intransitivos não podem ter um objeto direto porque não há participação direta de um agente. As sentenças abaixo estão gramaticamente erradas.\n\n
+
+        Erro:　電気<font color="#008000"><s>を</s></font>ついた。- （「を」 deve ser trocado por「が」 ou 「は」）\n
+        Erro:　電気<font color="#008000"><s>を</s></font>消える。- （「を」 deve ser trocado por「が」 ou 「は」）\n
+        Erro:　どうして窓<font color="#008000"><s>を</s></font>開いた？- （「を」 deve ser trocado por「が」 ou 「は」）\n\n
+
+        A única vez que você pode usar a partícula 「を」 para verbos intransitivos é quando uma localização for o objeto direto de um verbo que expresse movimento como foi resumidamente descrito na seção anterior.\n
+        （１）　部屋<font color="#008000">を</font>出た。- Eu deixei a sala./Eu saí da sala.
+    </string>
+//
+
+//16
+    <string name="textEstudo16" tools:ignore="TypographyEllipsis">
+        <font color="#0F305C"><big><b><u>Tratando verbos e o estado-de-ser como adjetivos</u></b></big></font>\n\n
+
+        Você já parou pra pensar em quantas formas de verbos e o estado-de-ser são conjugados de forma parecida com os adjetivos-i? Então, isso é porque eles são adjetivos. Por exemplo, considere a sentença: "Uma pessoa que não comeu foi para o banco." O "não comeu" descreve a pessoa e em Japonês, você pode modificar diretamente o substantivo \'pessoa\' com a oração \'não comeu\' como se fosse um adjetivo normal. Essa simples realização nos permitirá modificar um substantivo com qualquer verbo singelo!\n\n\n
+
+
+        <font color="#0F305C"><big><b><u>Usando orações subordinadas do estado-de-ser como adjetivos</u></b></big></font>\n\n
+
+        As conjugações de substantivos negativa, passado, e passado negativa podem ser usados como adjetivos para modificar diretamente substantivos. Porém, nós não podemos fazer isso com estado-de-ser afirmativo e presente usando 「だ」.\n\n
+
+        <b>Você não pode usar 「だ」 para modificar diretamente um substantivo com outro substantivo,\n
+            diferente de「だった」、「じゃない」e 「じゃなかった」em que você pode.</b>\n\n
+
+        No entanto, você pode ter uma sequência de substantivos colocados juntos quando eles não foram feitos para modificar um ao outro. Por exemplo, numa frase como "Centro Educacional Internacional" você pode ver que isso é só uma sequência de substantivos sem nenhuma modificação gramática entre eles. Não é um "Centro Educacional que é Internacional" ou um "Centro Internacional para Educação", etc. É só um "Centro Educacional Internacional". No Japonês, você pode expressar isso simplesmente como 「国際教育センタ」 (ou 「センター」) , você vai ver essa cadeia de substantivos em várias combinações. As vezes uma certa combinação é tão usada no cotidiano que quase virou uma palavra separada e é até listada em alguns dicionários como um verbete separado. Alguns exemplos são: 「登場人物」,「立入禁止」ou 「通勤手当」.\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n
+        Aqui tem alguns exemplos de uma modificação direta do substantivo com uma oração que há substantivo conjugado (estado-de-ser). O substantivo conjugado da oração foi destacado.\n\n
+
+        （１）　<font color="#008000">学生じゃない</font>人は、学校に行かない。\n
+        - A Pessoa que não é um estudante não vai pra escola.\n\n
+
+        （２）　<font color="#008000">子供だった</font>アリスが立派な大人になった。\n
+        - A Alice que era uma criança virou uma boa adulta.\n\n
+
+        （３）　<font color="#008000">友達じゃなかった</font>アリスは、いい友達になった。\n
+        - Alice que não era uma amiga, virou uma boa amiga.\n\n
+
+        （４）　<font color="#008000">先週に医者だった</font>ボブは、仕事を辞めた。\n
+        - Bob que era um doutor semana passada, desistiu de seu emprego.\n\n\n
+
+
+       <font color="#0F305C"><big><b><u>Usando oração subordinada de verbos como adjetivo</u></b></big></font>\n\n
+
+        Orações Verbais podem também ser usadas como se fossem adjetivos para modificar adjetivos. Os exemplos abaixo mostram como isso nos permitirá a criar frases detalhadas e complicadas. A oração verbal foi destacada.\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n\n
+
+        （１）　<font color="#008000">先週に映画を見た</font>人は誰？\n
+        - Quem é a pessoa que assistiu um filme semana passada?\n\n
+
+        （２）　ボブは、<font color="#008000">いつも勉強する</font>人だ。\n
+        - Bob é uma pessoa que sempre estuda.\n\n
+
+        （３）　<font color="#008000">赤いズボンを買う</font>友達はボブだ。\n
+        - O Amigo que compra calças vermelhas é o Bob.\n\n
+
+        （４）　<font color="#008000">晩ご飯を食べなかった</font>人は、<font color="#008000">映画で見た</font>銀行に行った。\n
+        - A Pessoa que não comeu o jantar foi para o banco que ela viu no filme.\n\n
+    </string>
+//
+
+//17
+    <string name="textEstudo17">
+        <font color="#0F305C"><big><b><u>Ordem das Sentenças Japonesas</u></b></big></font>\n\n
+
+        Agora que nós aprendemos o conceito de orações subordinadas e como elas são usadas para construir blocos para criar frases, eu posso te mostrar em que ordem é montada uma frase Japonesa. Há um mito que continua se espalhando sobre a ordem das sentenças Japonesas que continua a amaldiçoar muitos iniciantes azarados. É assim que funciona:\n\n
+
+        Uma sentença comum no Português pode ser descrita pelos seguintes elementos nessa ordem: [Sujeito] [Verbo] [Objeto] (Ex: Eu comi cocada). (Nota de Tradução: Aqui estava mostrando que em inglês uma frase básica precisava ter esses 3 elementos para ser uma frase gramaticamente completa, só que em português existem orações  completas como "Choveu." ou "(Ele) Morreu." Então tive de mudar isso).\n\n
+
+        No entanto Estudantes de japonês vão falar para você que Japonês é totalmente ao contrário!! Pode ser até que alguma professora de Japonês fale para você que ordem de uma sentença é [Sujeito] [Objeto] [Verbo] . Esse é um clássico exemplo de se tentar ocidentalizar a maneira de pensar em Japonês. É claro que todos nós sabemos que a ordem dos elementos em uma frase básica no japonês é: [Verbo]. Qualquer outra coisa que vem antes não tem que vir em um ordem particular e nada mais que um verbo é requerido para fazer uma sentença completa. Porém, o verbo precisa sempre vir por último. Esse é o porquê de ter partículas e assim é possível identificar uma função gramátical, independente de onde esteja na sentença. Na realidade nada vai nos impedir de fazer uma sentença [Objeto] [Sujeito] [Verbo] ou só [Objeto] [Verbo]. Todas essas sentenças estão gramaticamente completas e certas porque o verbo está no final da sentença.\n\n
+
+        <font color="#0F305C"><b>Sentenças Gramaticamente completas e corretamente ordenadas</b></font>\n
+        （１）　私は公園でお弁当を<font color="#008000">食べた</font>。\n
+        （２）　公園で私はお弁当を<font color="#008000">食べた</font>。\n
+        （３）　お弁当を私は公園で<font color="#008000">食べた</font>。\n
+        （４）　弁当を<font color="#008000">食べた</font>。\n
+        （５）　<font color="#008000">食べた</font>。\n\n
+
+        Então não se mate para saber se sua sentença está corretamente ordenada. Só lembre de seguir as Regras.\n\n
+
+        <font color="#B53834"><b>Ordem de uma Sentença Japonesa</b></font>\n\n
+
+        Uma sentença completa requer um verbo principal que deve vir no final. Isso também inclui o implícito estado-de-ser.\n
+        Exemplo: 食べた\n
+        Exemplo: 学生（だ）\n
+        Sentenças completas (orações subordinadas) podem ser usadas para modificar substantivos para criar sentenças com orações subordinadas agrupadas. (Exceto por sentenças que terminem com o estado-de-ser 「だ」)\n
+        Exemplo: <font color="#008000">お弁当を食べた</font>学生が公園に行った。
+    </string>
+//
+
+//18
+    <string name="textEstudo18a">
+        <font color="#0F305C"><big><b><u>As últimas três partículas (Não!)</u></b></big></font>\n\n
+
+        Já abordamos diversas construções poderosas que podem expressar quase qualquer coisa que queremos. Iremos analisar agora a partícula 「の」, que nos dará ainda mais poder nos permitindo definir um substantivo genérico e abstrato. Iremos também aprender a como modificar substantivos diretamente com substantivos. As três partículas que iremos abordar podem agrupar substantivos juntos de diferentes formas.\n\n
+
+        Esta é a última aula que irá focar especificamente nas partículas, mas isto não significa que não há mais partícula para aprender. Iremos aprender muito mais partículas ao longo do caminho mas elas provavelmente não serão rotuladas como o mesmo. À medida que você souber o que significam e como usá-las, não é importante saber se elas são partículas ou não.\n\n\n
+
+
+        <big><big><b><u>A partícula de inclusão 「と」</u></b></big></big>\n\n
+
+        <font color="#0F305C"><b>Vocabulário</b></font>\n
+
+        1.  ナイフ - Faca\n
+        2.  フォーク - Garfo\n
+        3.  ステーキ - Bife\n
+        4.  食べる「た・べる」(verbo-ru) - Comer\n
+        5.  本「ほん」- Livro\n
+        6.  雑誌「ざっ・し」- Revista\n
+        7.  葉書「はがき」- Cartão postal\n
+        8.  買う「か・う」(verbo-u) - Comprar\n
+        9.  友達「とも・だち」- Amigo\n
+        10. 話す「はな・す」(verbo-u) - Falar, conversar, discutir\n
+        11. 先生「せん・せい」- Professor\n
+        12. 会う「あ・う」(verbo-u) - Encontrar-se\nn
+
+        A partícula 「と」é similar a partícula 「も」no fato de que ela contém um significado de inclusão. Você pode combinar dois ou mais substantivos juntos para significar “e”.\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n
+
+        1. ナイフ<font color="#008000">と</font>フォークでステーキを食べた。\n
+        Comi um bife usando garfo e faca.\n\n
+
+        2. 本<font color="#008000">と</font>雑誌<font color="#008000">と</font>葉書を買った。\n
+        Comprei um livro, uma revista, e um cartão postal.\n\n
+
+
+        Outro uso semelhante da partícula 「と」e para mostrar uma ação que foi feita junto de alguém ou de outra coisa.\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n
+
+        1. 友達<font color="#008000">と</font>話した。\n
+        Conversei com meu amigo.\n\n
+
+        2. 先生<font color="#008000">と</font>会った。\n
+        Me encontrei com meu professor.\n\n\n
+
+
+        <big><big><b><u>A Vaga Listagem com as partículas 「や」e 「とか」</u></b></big></big>\n\n
+
+        <font color="#0F305C"><b>Vocabulário</b></font>\n
+
+        1. 飲み物「の・み・もの」- Bebida\n
+        2.カップ - Copo, xícara\n
+        3. ナプキン - Guardanapo\n
+        4. 要る「い・る」 (verbo-u) - Precisar, necessitar\n
+        5. 靴「くつ」- Sapatos\n
+        6. シャツ - Camisa\n
+        7. 買う「か・う」(verbo-u) - Comprar\n\n
+
+
+        A partícula 「や」, assim como a partícula 「と」, é usada para listar um ou mais substantivos exceto que ele é bem mais vago do que a partícula 「と」. Ele deixa implícito que pode haver outras coisas que não estão listadas e que talvez não se aplique todos os itens da lista. No Português, você talvez pense nisto como um tipo de listagem como “e/ou, etc.”\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n
+
+        1. 飲み物<font color="#008000">や</font>カップ<font color="#008000">や</font>ナプキンは、いらない？\n
+        Você não precisa de (coisas como) bebidas, copos, e guardanapos, etc?\n\n
+
+        2. 靴<font color="#008000">や</font>シャツを買う。\n
+        Comprarei (coisas como) sapatos e camisetas, etc…\n\n
+
+
+        「とか」também tem o mesmo significado que 「や」mas é uma expressão um pouco mais coloquial.\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n
+
+        1. 飲み物<font color="#008000">とか</font>カップ<font color="#008000">とか</font>ナプキンは、いらない？\n
+        Você não necessita de (coisas como) bebidas, copos, e guardanapos, etc.?\n\n
+
+        2. 靴<font color="#008000">とか</font>シャツを買う。\n
+        Comprar (coisas como) sapatos e camisas, etc…\n\n\n
+
+
+        <big><big><b><u>A partícula 「の」</u></b></big></big>\n\n
+
+        <font color="#0F305C"><b>Vocabulário</b></font>\n
+
+        1.  本「ほん」- Livro\n
+        2.  アメリカ - America, EUA\n
+        3.  大学「だい・がく」- Universidade, faculdade\n
+        4.  学生「がく・せい」- Estudante\n
+        5.  それ - Isso\n
+        6.  その - Abreviação de 「それの」\n
+        7.  シャツ - Camisa\n
+        8.  誰「だれ」- Quêm\n
+        9.  これ - Isto\n
+        10. この - Abreviação de 「これの」\n
+        11. あれ - Aquilo (logo ali)\n
+        12. あの - Abreviação de 「あれの」\n
+        13. 白い「し・ろい」(adjetivo-i) - Branco\n
+        14. かわいい (adjetivo-i) - Fofo\n
+        15. 授業「じゅ・ぎょう」- Aula\n
+        16. 行く「い・く」(verbo-u) - Ir\n
+        17. 忘れる「わす・れる」(verbo-ru) - Esquecer\n
+        18. こと - Evento, ação, coisa, ocorrido…\n
+        19. 毎日「まい・にち」- Todo dia\n
+        20. 勉強「べん・きょう」- Estudos\n
+        21. する (verbo irregular) - Fazer\n
+        22. 大変「たい・へん」(adjetivo-na) - Tempos difíceis, duro, árduo, terrível…\n
+        23. 同じ「おな・じ」- Mesmo\n
+        24. 物「もの」- Coisa, objeto\n
+        25. 食べる「た・べる」(verbo-ru) - Comer\n
+        26. 面白い「おも・し・ろい」(adjetivo-i) - Interessante\n
+        27. 静か「しず・か」(adjetivo-na) - Quieto, silencioso\n
+        28. 部屋「へ・や」- Quarto\n
+        29. 人「ひと」- Pessoa\n
+        30. 学校「がっ・こう」- Escola\n\n
+
+        A partícula 「の」possui vários usos e é uma partícula muito poderosa. Ela será introduzida aqui pois assim como as partículas 「と」 e  「や」, ela pode ser usada para conectar um ou mais substantivos.\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n
+
+        1. ボブ<font color="#008000">の</font>本。\n
+        O livro do Bob.\n\n
+
+        2. 本<font color="#008000">の</font>ボブ。\n
+        O livro do Bob.\n\n
+
+        A primeira sentença essencialmente significa, “O livro do Bob.” (não é um capítulo perdido da bíblia). A segunda sentença significa, “O Bob do livro” o que provavelmente é um erro. Eu traduzi o primeiro exemplo como “O livro de Bob” pois a partícula 「の」não irá sempre deixar implícito uma ideia de possessão como o próximo exemplo mostrará.\n\n
+
+        <font color="#0F305C"><b>Exemplo</b></font>\n
+        ボブは、アメリカ<font color="#008000">の</font>大学<font color="#008000">の</font>学生だ。\n
+        Bob é estudante da universidade da America.\n\n
+
+        No português comum, isto poderia ser traduzido para, “Bob é um estudante de uma universidade Americana.” A ordem de modificação é ao contrário, então Bob é um estudante da universidade que é Americana. 「学生の大学のアメリカ」significa “America da universidade do estudante” na qual provavelmente é um erro e faz menos sentido. (America da universidade do estudante?)\n\n
+
+        O substantivo que está sendo modificado pode ser omitido se o contexto indicar claramente o que está sendo omitido. As seguintes palavras destacadas e redundantes podem ser omitidas.\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n
+
+        1. そのシャツは誰の<font color="#008000">シャツ</font>？\n
+        Essa camisa é a camisa de quem?\n\n
+
+        2. ボブの<font color="#008000">シャツ</font>だ。\n
+        É a camisa do Bob.\n\n
+
+
+        Para tornar-se:\n\n
+
+
+        1. そのシャツは誰<font color="#008000">の</font>？\n
+        De quem é essa camisa?\n\n
+
+        2. ボブ<font color="#008000">の</font>だ。\n
+        É a do Bob.\n\n
+
+        （「その」é uma abreviação de 「それ + の」então ela modifica diretamente o substantivo pois é intrinsecamente anexada. Outras palavras incluem 「この」que vem de 「これの」e 「あの」que vem de 「あれの」.\n\n
+
+        A partícula 「の」nesta forma de usar é essencialmente substituída pelo substantivo e toma lugar da função como um substantivo por si só. Podemos essencialmente tratar adjetivos e verbos como substantivos adicionando a partícula 「の」. A partícula então torna-se um substantivo genérico, na qual podemos tratar apenas como um substantivo regular.\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n
+
+        1. 白い<font color="#008000">の</font>は、かわいい。\n
+        A coisa branca é fofa.\n\n
+
+        2. 授業に行く<font color="#008000">の</font>を忘れた。\n
+        Esqueci da coisa/ação de ir à aula.\n\n
+
+        Agora podemos usar as partículas de objeto direto, tópico, e a identificadora com verbos e adjetivos. Não precisamos necessariamente ter que usar a partícula 「の」aqui. Podemos usar o substantivo 「物」, que é um objeto genérico ou 「こと」para uma ação/ocorrência genérica. Por exemplo, podemos também dizer:\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n
+
+        1. 白い<font color="#008000">もの</font>は、かわいい。\n
+        A coisa/objeto branco é fofo.\n\n
+
+        2. 授業に行く<font color="#008000">こと</font>を忘れた。\n
+        Esqueci da coisa/evento de ir à aula.\n\n
+
+        Entretanto, a partícula 「の」é muito útil no fato de que você não precisa especificar um substantivo em particular. Nos próximos exemplos, a partícula 「の」não está substituindo qualquer substantivo em particular, ele apenas permite modificar o verbo e cláusulas adjetivas assim como as cláusulas substantivas. As cláusulas relativas estão destacadas.\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n
+
+        1. <font color="#008000">毎日勉強する</font>のは大変。\n
+        A coisa/ação de estudar todos os dias é terrível/árduo.\n\n
+
+        2. <font color="#008000">毎日同じ物を食べる</font>のは、面白くない。\n
+        Não é interessante o fato de comer a mesma coisa todos os dias.\n\n
+
+        Mesmo quando substituímos o 「の」por um substantivo, você ainda precisa do 「な」para modificar o substantivo quando um adjetivo-na está sendo usado.\n\n
+
+        <font color="#0F305C"><b>Exemplo</b></font>\n
+
+        静か<font color="#008000">な</font>部屋が、アリスの部屋だ。\n
+        O quarto silencioso é o quarto da Alice.\n\n
+
+        Torna-se:\n\n
+
+        静か<font color="#008000">な</font>のが、アリスの部屋だ。\n
+        A coisa que é quieta é o quarto da Alice.\n\n\n
+
+
+        <big><big><b><u>O 「の」como partícula de explanação</u></b></big></big>\n\n
+
+        <font color="#0F305C"><b>Vocabulário</b></font>\n
+
+        1.  今「いま」- Agora\n
+        2.  忙しい「いそが・しい」(adjetivo-i) - Ocupado\n
+        3.  学生「がく・せい」- Estudante\n
+        4.  飲む「のむ」- Beber\n
+        5.  どこ - Onde\n
+        6.  行く「い・く」(verbo-u) - Ir\n
+        7.  授業「じゅ・ぎょう」- AUla\n
+        8.  ある (verbo-u) - Ser/estar/existir (seres inanimados)\n
+        9.  ううん - Palavra casual para “no” (nah, uh-uh)\n
+        10. その - Esse (abreviação de それの)\n
+        11. 人「ひと」- Pessoa\n
+        12. 買う「か・う」(verbo-u) - Comprar\n
+        13. 先生「せん・せい」- Professor\n
+        14. 朝ご飯「あさ・ご・はん」- Tomar café da manhã\n
+        15. 食べる「た・べる」(verbo-ru) - COmer\n
+        16. どうして - Por quê\n\n
+
+        A partícula 「の」anexada ao final da última cláusula de uma sentença também pode transmitir um tom de explicação a sua sentença. Por exemplo, se alguém perguntou se você tem tempo, você poderia responder, “O ponto é que eu estou um pouco ocupado agora.” O substantivo genérico abstrato de “a coisa é que, o ponto é que…” também pode ser expressado com a partícula 「の」. Este tipo de sentença possui um significado implícito que explana a razão por alguma outra coisa.\n\n
+
+        A sentença poderia ser expressada como:\n\n
+
+        今は忙しい<font color="#008000">の</font>。\n
+        O ponto/a razão é que (eu) estou ocupado agora.\n\n
+
+        Isto soa muito suave e feminino. De fato, homens adultos irão quase sempre adicionar um declarativo 「だ」a menos que eles querem soar fofo por algum motivo.\n\n
+
+        今は忙しい<font color="#008000">の</font>？\n
+        Isto é porquê (você) está ocupado agora? (Gênero neutro)\n\n
+
+        Para expressar um estado-de-ser, quando a partícula 「の」é usada para transmitir o tom de explanação, precisamos adicionar o 「な」para distingui-lo da partícula の que significa simplesmente “de”.\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n
+
+        1. ジム<font color="#008000">の</font>だ。\n
+        Isto é do Jim. (Este é o do Jim.)\n\n
+
+        2. ジムな<font color="#008000">の</font>だ。\n
+        É porque é o Jim (com um tom de explicação).\n\n
+
+        Além deste caso, qualquer outra coisa permanece a mesma de antes.\n\n
+
+        Na realidade, enquanto que este tipo de tom explicativo é usado o tempo todo, 「のだ」e geralmente substituído por 「んだ」. Isto é provavelmente devido ao fato de que 「んだ」é mais fácil de falar do que 「のだ」. Essa gramática pode haver o que se parece com vários significados diferentes pois isto pode não apenas ser usado com todas as formas de adjetivos, substantivos, e verbos, como também o mesmo pode ser conjugado como um estado-de-ser por si só. Uma tabela de conjugação irá lhe mostrar o que isto significa.\n\n
+
+        Não há realmente nada de novo aqui. A primeira tabela está apenas adicionando o 「んだ」（ou 「なんだ」）para um verbo conjugado, substantivo, ou adjetivo. A segunda tabela adiciona o 「んだ」（ou 「なんだ」) para um verbo sem conjugação, substantivo, adjetivos, e então conjuga a parte do 「だ」no 「んだ」assim como um estado-de-ser comum para substantivos ou adjetivos-na. Apenas não esqueça de adicionar o 「な」para substantivo assim como adjetivos-na.\n\n
+
+        <font color="#0F305C"><big><b><u>「んだ」anexado a diferentes conjugações (Substituir o 「の」ou 「のだ」por 「んだ」)</u></b></big></font>
+    </string>
+    <!--tableNda1-->
+    <string name="textEstudo18b">
+        <font color="#0F305C"><big><b><u>「んだ」é conjugado (Substituir o 「の」por 「ん」e 「の」ou 「のだ」por 「んだ」)</u></b></big></font>
+    </string>
+    <!--tableNda2-->
+    <string name="textEstudo18c">
+        Eu poderia dizer que as formas passado e passado-negativo para adjetivo-na / substantivo na segunda tabela quase nunca são usadas (especialmente com 「の」) mas elas são apresentadas para integridade.\n\n
+
+        A diferença crucial entre usar a partícula explanatória 「の」e não usar nada é que você está dizendo ao ouvinte, “Olha, aqui está a razão” em oposição a simplesmente comunicar uma nova informação. Por exemplo, se alguém te perguntar, “Você está ocupado agora?” Por você obviamente ter alguma explicação para fazer, você poderia responder, 「今は忙しいの」 ou 「今は忙しいんだ」. Essa gramática é indispensável para procurar or explanações e perguntas. Por exemplo, se você quiser dizer, “Hey, não está meio tarde?” você não pode simplesmente perguntar, 「遅くない？」pois isto significa, “Não é tarde?” Você precisa indicar que você está procurando por uma explicação na forma de 「遅いんじゃない？」.\n\n
+
+        Vamos ver alguns exemplos dos tipos de situações onde esta gramática é usada. Os exemplos terão uma tradução literal para facilitar na hora de analisar como o significado permanece o mesmo e te leva ao que poderia ser tipos bem diferentes de sentenças no português comum. Uma tradução mais natural do português é fornecida também pois as traduções literais podem ser um pouco complicadas.\n\n
+
+
+        <font color="#0F305C"><b>Exemplo 1:</b></font>\n
+
+        アリス : どこに行く<font color="#008000">の</font>？\n
+        Alice: Aonde (você) está indo agora?\n\n
+
+        ボブ : 授業に行く<font color="#008000">んだ</font>。\n
+        Bob: É que (eu) vou para a aula\n\n
+
+        Alice: Pra onde você está indo? (Procurando por uma resposta, explicação)\n
+        Bob: Estou indo pra aula. (Explicação)\n\n
+
+
+        <font color="#0F305C"><b>Exemplo 2:</b></font>\n
+
+
+        アリス : 今、授業がある<font color="#008000">んじゃない</font>？\n
+        Alice: Não é porque você tem aula agora?\n\n
+
+        ボブ : 今は、ない<font color="#008000">んだ</font>。\n
+        Bob: Agora é que não haverá aula.\n\n
+
+        Alice: Você não tem aula agora? (Esperando que não haja aula)\n
+        Bob: Não, não há aula agora. (Explicando)\n\n
+
+
+        <font color="#0F305C"><b>Exemplo 3:</b></font>\n
+
+
+        アリス : 今、授業がない<font color="#008000">んじゃない</font>？\n
+        Alice: Não é que não há aula agora?\n\n
+
+        ボブ : ううん、ある。\n
+        Bob: Não, haverá\n\n
+
+        Alice: Você não tem aula agora? (Esperando que não haja aula)\n
+        Bob: Não, eu tenho aula.\n\n
+
+
+        <font color="#0F305C"><b>Exemplo 4:</b></font>\n
+
+
+        アリス : その人が買う<font color="#008000">んじゃなかった</font>の？\n
+        Alice: Não é porque essa pessoa foi quem comprou?\n\n
+
+        ボブ : ううん、先生が買う<font color="#008000">んだ</font>。\n
+        Bob: Não, é que o professor é quem vai comprar.\n\n
+
+
+        Alice: Não era essa pessoa que ia comprar? (Esperando que a pessoa poderia comprar)\n
+        Bob: Não, o professor está indo comprar. (Explanatório)\n\n
+
+
+        <font color="#0F305C"><b>Exemplo 5:</b></font>\n
+
+
+        アリス : 朝ご飯を食べる<font color="#008000">んじゃんかった</font>。\n
+        Alice: É que o café-da-manhã não era pra comer.\n\n
+
+        ボブ : どうして？\n
+        Bob:  Por quê?\n\n
+
+
+        Alice: Eu não deveria ter comido o café-da-manhã viu. (Explicando que o café da manhã não era pra ter sido comido)\n
+        Bob: Por quê?\n\n
+
+        Não se preocupe se você está completamente confuso agora, você verá diversos exemplos ao longo do caminho. Uma vez que você pega o sentido de como tudo funciona, é melhor o português pois o dobro e triplas estruturas negativas podem ficar bem confusas como no exemplo 3. Entretanto, no japonês é uma expressão perfeitamente comum, como você vai começar a notar uma vez que você se familiarizar com o japonês.
+    </string>
+//
+
+//19
+    <string name="textEstudo19">
+        <font color="#0F305C"><big><b><u>Propriedades dos Advérbios</u></b></big></font>\n\n
+
+        <font color="#0F305C"><b>Vocabulário:</b></font>\n
+        1.  早い「はや・い」(adjetivo-i) - Rápido; Cedo\n
+        2.  きれい (adjetivo-na) - Bonito, lindo; Limpo\n
+        3.  朝御飯「あさ・ご・はん」(verbo-ru) - Café-da-manhã\n
+        4.  食べる「た・べる」(verbo-ru) - Comer\n
+        5.  自分「じ・ぶん」- Eu mesmo, si mesmo\n
+        6.  部屋「へ・や」- Quarto\n
+        7.  映画「えい・が」- Filme\n
+        8.  たくさん - Um monte (quantia)\n
+        9.  見る「み・る」- Ver, observar; Assistir\n
+        10. 最近「さい・きん」- Recentemente, ultimamente\n
+        11. 全然「ぜん・ぜん」- Nem um pouco (Quando usado com frases negativas)\n
+        12. 声「こえ」- Voz\n
+        13. 結構「けっ・こう」- Consideravelmente; razoavelmente\n
+        14. 大きい「おお・きい」(adjetivo-i) - Grande\n
+        15. この - Este (abreviação de これの)\n
+        16. 町「まち」- Cidade\n
+        17. 変わる「か・わる」(verbo-u) - Mudar, transformar\n
+        18. 図書館「と・しょ・かん」- Biblioteca\n
+        19. 中「なか」- Dentro\n
+        20. 静か「しず・か」(adjetivo-na) - Quieto, silencioso\n\n
+
+        Diferente do português, transformar adjetivos para advérbios é um processo bem simples e direto. Além do mais, por o sistema de partículas fazer a sentença se ordenar de forma flexível, os advérbios podem ser colocados em qualquer lugar na cláusula que está sendo aplicada na medida que ele vier antes do verbo na qual está se referindo. Como de costume, temos duas regras distintas: Uma para adjetivos-i, e uma para adjetivos-na.\n\n
+
+        <font color="#B53834"><b>Como transformar um adjetivo em um advérbio</b></font>\n
+
+        <b>Para adjetivos-i</b>: Substituir o 「い」por 「く」.\n
+        Exemplo: 早<font color="#008000">い</font>  >>  早<font color="#008000">く</font>\n
+
+        <b>Para adjetivos-na</b>: Anexar a partícula de alvo 「に」.\n
+        Exemplo: きれい  >>  きれい<font color="#008000">に</font>\n\n
+
+        <font color="#0F305C"><b>Exemplo 1:</b></font>\n
+        ボブは朝ご飯を<font color="#008000">早く</font>食べた。\n
+        Bob rapidamente comeu seu café-da-manhã.\n\n
+
+        O advérbio 「早く」é um pouco diferente da palavra em português “rápido” no fato de que isto significa rapidamente em termos de velocidade ou tempo. Em outras palavras, Bob pode ter comido seu café-da-manhã precocemente ou ele pode ter comido rapidamente dependendo do contexto. Em outros tipos de sentenças como 「早く走った」, é um pouco óbvio que isto provavelmente significa “rapidamente” e não “cedo, precocemente”. (é claro que isso também depende do contexto.)\n\n
+
+        <font color="#0F305C"><b>Exemplo 2:</b></font>\n
+        アリスは自分の部屋を<font color="#008000">きれいに</font>した。\n
+        Alice limpou o seu quarto e o deixou limpinho.\n\n
+
+        A tradução literalmente lhe dá meio que uma ideia do porquê que a partícula de alvo é usada. Há alguns argumentos contra falando que isto é um advérbio no final das contas, mas é conveniente para nós considerarmos assim por conta dos grupos de adjetivos-i e adjetivos-na. Pensando nisto como um advérbio, podemos interpretar a sentença com o significado de: “Alice fez o seu quarto de forma limpa.” ou menos literal: “Alice limpou seu quarto.” （「きれい」literalmente significa “bonito, lindo” mas se isto ajuda, você pode pensar nisto como um, “Alice enfeitou seu quarto.”)\n\n
+
+        Nota: Não são todos os advérbios que são derivados dos adjetivos. Algumas palavras como 「全然」e 「たくさん」são advérbios por si só sem quaisquer conjugações. Estas palavras podem ser usadas sem partículas, assim como advérbios comuns.\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n
+        1. 映画を<font color="#008000">たくさん</font>見た。\n
+        Assistiu um monte de filmes.\n\n
+
+        2. 最近、<font color="#008000">全然</font>食べない。\n
+        Recentemente, não estou comendo nem um pouco.\n\n
+
+        Aqui alguns exemplos usando os advérbios.\n\n
+
+        <font color="#0F305C"><b>Exemplos</b></font>\n
+        1. ボブの声は、<font color="#008000">結構</font>大きい。\n
+        A voz de Bob é <font color="#008000">bem</font> alta.\n\n
+
+        2. この町は、最近<font color="#008000">大きく</font>変わった。\n
+        Esta cidade havia mudado <font color="#008000">muito</font> recentemente.\n\n
+
+        3. 図書館の中では、<font color="#008000">静かに</font>する。\n
+        Dentro da biblioteca, [nós] fazemos as coisas em <font color="#008000">silêncio</font>.
+    </string>
+//
+
+//20
+    <string name="textEstudo20">
+        <font color="#0F305C"><big><b><u>Partículas que finalizam a sentença</u></b></big></font>\n\n
+
+        <font color="#0F305C"><b>Vocabulário</b></font>\n
+        1.  いい (adj-i) - bom\n
+        2.  天気【てん・き】- Clima\n
+        3.  そう - (as coisas são) dessa maneira\n
+        4.  面白い【おも・しろ・い】 (adj-i) interessante\n
+        5.  映画【えい・が】- Filme\n
+        6.  時間【じ・かん】 - Tempo\n
+        7.  ある (verbo-u) - Para existir (objetos inanimados)\n
+        8.  大丈夫「だい・じょう・ぶ】(adj-na) - tudo bem\n
+        9.  今日【きょう】- Hoje\n
+        10. うん - Sim (casual)\n
+        11. でも - Mas\n
+        12. 明日【あした】 - Amanhã\n
+        13. 雨【あめ】- Chuva\n
+        14. 降る【ふ・る】- Para precipitar\n
+        15. 魚【さかな】 - Peixe\n
+        16. 好き【す・き】(adj-na) gostável\n\n
+
+        Partículas que terminam uma sentença são partículas que sempre vêm ao final para mudar o “tom” ou o “sentimento” de uma frase. Nesta seção, cobrimos as duas partículas mais comumente usadas para terminar uma sentença.\n\n\n
+
+
+        <big><big><b><u>O 「ね」no fim da sentença</u></b></big></big>\n\n
+
+        As pessoas normalmente adicionam o 「ね」ao final da sua frase quando estão buscando (e esperando) uma concordância com o que estão dizendo. Ou seja, é o equivalente a dizer “certo” ou “não é”.\n\n
+
+        <font color="#0F305C"><b>Exemplo 1:</b></font>\n
+        ボブ: いい天気だ<font color="#008000">ね</font>。\n
+        Bob, o clima está ótimo, não acha?\n\n
+
+        アリス : そう<font color="#008000">ね</font>。\n
+        Alice: É mesmo.\n\n
+
+        A tradução literal de 「そうね」 soa um pouco estranha, mas basicamente significa algo como: "Isso mesmo". Os homens provavelmente diriam, 「そうだね」.\n\n
+
+        <font color="#0F305C"><b>Exemplo 2:</b></font>\n
+        アリス : おもしろい映画だった<font color="#008000">ね</font>。\n
+        Alice: O filme foi interessante, não foi?\n\n
+
+        ボブ : え？全然おもしろくなかった。\n
+        Bob: Eh? Não, não foi nada interessante.\n\n
+
+        Mesmo que Alice estivesse esperando por uma concordância sobre o filme ser interessante, Bob a surpreendeu. Pois não achou o filme nada interessante. (「え」soa como surpresa ou confusão)\n\n\n
+
+
+        <big><big><b><u>O 「よ」no fim da sentença</u></b></big></big>\n\n
+
+        Quando o 「よ」é anexado ao fim da sentença, significa que o orador está informando algo novo ao ouvinte. Em português, equivale ao “Sabe...” como a frase: “Sabe, na verdade eu sou um gênio”.\n\n
+
+        <font color="#0F305C"><b>Exemplo 1:</b></font>\n
+        アリス: 時間がない<font color="#008000">よ</font>。\n
+        Alice: Sabe, não há tempo.\n\n
+
+        ボブ : 大丈夫だ<font color="#008000">よ</font>。\n
+        Bob: Está tudo bem.\n\n
+
+        <font color="#0F305C"><b>Exemplo 2</b></font>\n
+        アリス：今日はいい天気だね。\n
+        Alice: O clima está ótimo hoje, não acha?\n\n
+
+        ボブ：うん。でも、明日雨が降る<font color="#008000">よ</font>。\n
+        Bob: Sim. Mas, vai chover amanhã.\n\n\n
+
+
+        <big><big><b><u>Combinando ambos para obter 「よね」</u></b></big></big>\n\n
+
+        Você também pode combinar as duas partículas que acabamos de aprender para formar o 「よね」. Isto é essencialmente usado quando você quer informar ou ouvinte sobre algum novo ponto que você está tentando criar e que está procurando uma concordância do mesmo. Ao combinar as duas, a ordem deve ser sempre 「よね」. Em hipótese alguma pode inverter esta ordem.\n\n
+
+        <font color="#0F305C"><b>Exemplo:</b></font>\n
+        アリス : ボブは、魚が好きなんだよね。\n
+        Alice: Bob, você gosta de peixes, não é mesmo?\n\n
+
+        ボブ : そうだね。\n
+        Bob: Isso mesmo.
+    </string>
+
+    <string name="tutoIntro">
+        Este aplicativo é direcionado aos iniciantes no estudo do idioma japonês e tem o objetivo de introduzir os conceitos básicos e fundamentos da língua japonesa ao usuário, incluindo seus sistemas de escrita, gramática e vocabulário, isso tudo em um aplicativo offline.\n\n
+
+        Além do mais, o aplicativo proporciona ao usuário a possibilidade de revisar o conteúdo estudado, por meio de flashcards, utilizando o Sistema de Repetição Espaçada - SRS (Spaced Repetition System), um método que tem o intuito de evitar o esquecimento dos conteúdos previamente estudados, visando a retenção a longo prazo do que foi aprendido.\n\n
+
+        A seguir, neste tutorial serão apresentadas e explicadas as seções Estudo, Decks, Consulta, Treino e Flashcards, que compõem este aplicativo e podem ser acessadas a partir da tela inicial. É recomendado que você pelo menos leia o conteúdo desta página, pois será necessário para entender o básico de cada seção deste aplicativo, e então, você pode voltar aqui para tirar suas dúvidas sobre alguma função específica sempre que necessário.\n\n
+
+        Caso você seja um iniciante no estudo do idioma japonês e esteja usando este aplicativo pela primeira vez, recomendo que termine de ler o conteúdo desta página, de forma a entender melhor como funciona o aplicativo e o método de estudo proposto, e então, depois disso siga para a seção "Estudos" e inicie seus estudos a partir do tópico \"1. Introdução\".
+    </string>
+
+    <string name="tutoEstudo1">
+        Na seção de Estudos será feita uma introdução à língua japonesa e seus fundamentos, juntamente de orientações mais detalhadas sobre como iniciar o estudo do idioma japonês. Além disso, é nessa seção que será feito o estudo da gramática da língua japonesa.
+    </string>
+
+    <string name="tutoEstudo2">
+        Após selecionar a seção Estudos na tela inicial, você será direcionado para uma página que contém diversos tópicos à serem estudados. Recomendo que estude-os na ordem em que estão listados, mas fique a vontade para voltar nas seções já vistas anteriormente para realizar consultas e revisões.\n\n
+
+        Além disso, caso você mantenha pressionado o texto com o nome do tópico, é possível mudar a cor em que ele é exibido, use esta funcionalidade como desejar, como por exemplo, para marcar os tópicos já vistos com uma certa cor, tópicos difíceis ou tópicos mais fáceis com outra cor, etc.
+    </string>
+
+    <string name="tutoDecks1">
+        Ao selecionar a seção Decks na tela inicial, você será inicialmente direcionado à página de gerenciamento de Decks, onde é possível arrastar os decks para o lado para excluir ou editá-los, caso sejam decks editáveis. Apenas os decks originais "\Hiragana"\, "\Katakana"\ e "\Vocabulário"\ não são editáveis, porque esses decks já possuem cartões previamente adicionados, que também não podem ser editados, pois são importantes meios de estudo deste aplicativo.\n\n
+
+        Ademais, é possível criar novos decks (que serão editáveis), ou ainda selecionar um dos decks exibidos, o que lhe direcionará para a página de gerenciamento de Cartões, onde você pode arrastar os cartões para o lado para editar ou excluir cartões existentes, ou ainda criar novos cartões para o deck selecionado, isto é, apenas caso ele seja um deck editável.
+    </string>
+
+    <string name="tutoDecks2">
+        Finalmente, você pode também selecionar um dos cartões listados na página de gerenciamento dos cartões, o que abrirá uma página onde são exibidas todas as informações deste cartão, além das opções de editar o cartão ou copiá-lo para outro deck, caso isso seja possível. Um cartão somente é editável caso ele esteja inserido em um deck editável e, além disso, é necessário que haja outro deck editável para o qual o cartão possa ser adicionado para que a opção de copiá-lo seja exibida, isso ocorre porque cartões não podem ser adicionados aos decks originais (não editáveis).
+    </string>
+
+    <string name="tutoConsulta1">
+        Nessa seção são listados todos os cartões de todos os decks do aplicativo e no canto direito superior há um icone de lupa, que pode ser selecionado para efetuar uma pesquisa entre os cartões exibidos. As pesquisas podem ser feitas usando o idioma português ou japonês e serão exibidos os cartões que possuem o campo \"Frente\", \"Verso\" ou \"leitura\" correspondentes ao texto que foi pesquisado.
+    </string>
+
+    <string name="tutoConsulta2">
+        A partir da tela de Consulta também é possível arrastar um cartão para os lados, para editá-lo ou excluí-lo, caso este cartão faça parte de um deck diferente dos 3 decks originais e não editáveis (Hiragana, Katakana e Vocabulário). Ademais, caso você selecione um cartão desta página, você será direcionado a uma página que exibirá todas as informações deste cartão, além das opções de editar o cartão ou copiá-lo para outro deck, caso isso seja possível.
+    </string>
+
+    <string name="tutoTreino1">
+        Na seção de Treino é possível jogar um quiz com os cartões de um deck. Primeiramente é necessário escolher um deck e então selecionar a quantidade de cartões que deseja incluir na sessão de treino, podendo também escolher se essa quantidade de cartões é referente à todos os cartões do deck ou caso queira que apenas os cartões \"Aprendidos\" sejam usados na sessão (os cartões aprendidos são aqueles que já foram estudados na sessão "\Flashcards\").
+    </string>
+
+    <string name="tutoTreino2">
+        Ao iniciar a sessão de Treino um cartão será exibido por vez, mostrando inicialmente a frente do cartão e então exibindo o verso do cartão após o usuário clicar no botão \"Conferir Resposta\" presente na frente do cartão.\n\n
+
+        Após ver o conteúdo da frente do cartão, o usuário deve tentar se relembrar da resposta correta para o conteúdo do cartão e logo após clicar no botão Conferir Resposta para mostrar o verso do cartão e conferir se ele conseguiu ou não acertar a resposta do cartão (por exemplo, em um cartão de vocabulário será exibida uma palavra escrita em japonês na frente, enquanto em seu verso estará o significado dessa palavra em português).
+    </string>
+
+    <string name="tutoTreino3">
+        Após conferir sua resposta o usuário deve escolher entre os botões \"Incorreta\" ou \"Correta\", referentes à resposta do usuário, para que então seja mostrada a frente do próximo cartão. Isso se repete até que o último cartão da sessão seja respondido e nessa hora o usuário será direcionado para a tela de estatísticas da sessão de treino.
+    </string>
+
+    <string name="tutoTreino4">
+        No final de uma sessão de Treino é exibida ao usuário uma lista com todos os cartões que foram vistos na sessão, sinalizando os erros e acertos.\n\n
+
+        É possível selecionar um cartão a partir desta lista para que seja aberta a página de informações desse cartão, onde o usuário pode adicionar esse cartão à outros decks (por exemplo, o usuário pode ter criado um Deck pessoal chamado \"Cartões Difíceis\", onde ele pretende adicionar os cartões que ele teve dificuldade de responder em uma sessão de treino).\n\n
+
+        Tenha em mente que os estudos da seção Treino não afetam a seção Flashcards, então fique a vontade para realizar quantas sessões de treino quiser.
+    </string>
+
+    <string name="tutoFlash1">
+        Logo após selecionar a seção Flashcard é mostrada uma tela que lista todos os decks disponíveis para o estudo de flashcards (decks com ao menos um cartão), junto da quantidade de revisões agendadas para o dia atual.\n\n
+
+        A partir daqui o usuário pode escolher um deck que não possui nenhuma revisão disponível (seja porque ele ainda não viu nenhum cartão novo desse deck nessa seção, ou porque ele já revisou os cartões agendados para o dia atual ou ainda porque nenhum cartão estava agendado para o dia atual) e após essa seleção o usuário será questionado sobre a quantidade de novos cartões desse deck que ele deseja estudar (esse assunto é tratado no tópico \"1. Introdução\" na seção de Estudos, mas vale a pena ressaltar que não é recomendado adicionar muitos cartões novos em uma só sessão de Flashcards).
+    </string>
+
+    <string name="tutoFlash2">
+        Ou ainda, o usuário pode escolher um deck que possua revisões pendentes para o dia atual. Neste caso será exibida uma confirmação ao usuário, que pode iniciar a sessão de estudo com Flashcards ou não, dependendo da resposta escolhida.
+    </string>
+
+    <string name="tutoFlash3">
+         A sessão de estudos com Flashcards é semelhante à sessão de Treino, onde um cartão é mostrado por vez, exibindo primeiramente sua frente e então seu verso após o usuário escolher conferir sua resposta. A diferença é que aqui o usuário não deve apenas indicar se conseguiu ou não responder o cartão, ele deve apontar qual foi a dificuldade encontrada para responder ao cartão, caso tenha sido possível respondê-lo, pois dependendo de como o usuário qualificar a dificuldade da resposta desse cartão, fatores como o número de vezes em que esse cartão será repetido ou a data para o agendamento da próxima revisão desse cartão serão influenciados.\n\n
+
+         Por exemplo, pode ser que seja necessário continuar repetindo mais vezes este cartão na sessão atual caso haja dificuldade, ou agendar uma revisão deste cartão para uma data futura caso o cartão tenha sido respondido com facilidade (não é recomendado utilizar o botão Fácil muito frequentemente, a menos que você tenha certeza que conhece bem a palavra desse cartão). \n\n
+
+        Além disso, caso o cartão sendo mostrado seja um cartão novo, é recomendado que o usuário acerte a resposta duas vezes antes que ela seja agendada, por isso na primeira vez que o botão Correto é selecionado o cartão ainda necessita ser repetido mais uma vez, e apenas nessa próxima revisão o cartão será agendado para outro dia caso ele responda corretamente novamente.
+    </string>
+
+    <string name="tutoFlash4">
+        Caso a sessão de estudos tenha sido iniciada para revisar cartões já aprendidos, e não para aprender novos cartões, o usuário terá 4 opções de resposta após mostrar o verso do cartão:\n\n
+        1. Incorreta: Repete o cartão mais uma vez nesta sessão e após a próxima repetição as outras respostas agendarão esse cartão para uma data mais próxima.\n\n
+        2. Díficil: Esse cartão será agendado para uma data correspondente à quantidade de dias desde a última revisão desse cartão (por exemplo, caso o cartão tenha sido aprendido ontem e esteja sendo revisado hoje, essa opção agendará a próxima revisão para amanhã).\n\n
+        3. Correta: Esse cartão será agendado para uma data mais longe do que uma resposta Difícil, de forma que esse cartão passe a ter suas revisões cada vez mais espaçadas caso o usuário não esteja tendo problemas para se relembrar da resposta do cartão.\n\n
+        4. Fácil: Não é recomendado utilizar este botão muito frequentemente, a menos que você tenha certeza que conhece bem o cartão sendo exibido. Essa resposta agenda o cartão para uma data ainda mais distante do que uma resposta Correta.
+    </string>
+
+    <string name="tutoFlash5">
+        Após o último cartão ser agendado para outro dia, será exibida uma tela de estatísticas listando todos os cartões estudados nessa sessão, divididos entre as classificações: Cartão novo, Cartão lembrado ou Cartão esquecido, sendo que as duas últimas só serão utilizadas caso o usuário tenha feito uma sessão de revisão, e não de aprendizado de novos cartões.\n\n
+
+        A partir da tela de estatísticas também é possível selecionar um cartão para que seja aberta a página de informações desse cartão, onde o usuário pode adicionar esse cartão à outros decks.\n\n
+
+        <b>Nota:</b> Uma seção pode ser terminada antes de todos os cartões serem agendados, ao pressionar o botão \"Terminar Sessão\" ou simplesmente sair da tela de estudos com Flashcards. Alterações nos agendamentos dos cartões só serão feitas após selecionar uma resposta que agende-o para outro dia, e portanto, caso a sessão seja interrompida, não será feita nenhuma alteração em cartões que ainda não foram agendados para outra data, os \"Cartões restantes\" da sessão. Além disso, caso a sessão de Flashcards seja terminada através do botão Terminar Sessão, a tela de estastísticas será mostrada para exibir os cartões que já foram estudados e agendados para outra data durante a sessão atual, isto é, apenas caso ao menos um cartão já tenha sido estudado e agendado.
+    </string>
+
+    <string name="tutoTeclado">
+        Para que seja possível criar e editar cartões neste aplicativo com textos em japonês, é altamente recomendável que seja usado um teclado que suporte a língua japonesa. Na seção \"Estudos\", no tópico \"2. Recursos Úteis\", é mostrado como baixar e configurar o Gboard, o teclado do Google, que permite utilizar tanto a língua japonesa quanto a língua portuguesa para digitar.
+    </string>
+
+</resources>

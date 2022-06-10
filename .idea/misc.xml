@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/drawable-v24/gradient_reverseMedium.xml" value="0.196" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/drawable-v24/ic_delete.xml" value="0.2385" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.223" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/drawable/a1.xml" value="0.2055" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/drawable/action_bar_degrade.xml" value="0.3165" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/drawable/action_bar_gradient.xml" value="0.2055" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/drawable/button_detail.xml" value="0.365" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/drawable/gradient_medium.xml" value="0.196" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/drawable/gradient_reverse.xml" value="0.318" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/drawable/ic_add.xml" value="0.2685" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.318" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2475" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/drawable/ic_round_close_24.xml" value="0.318" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/drawable/ic_save.xml" value="0.196" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/drawable/ic_search.xml" value="0.196" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/drawable/main_button.xml" value="0.347" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/drawable/shape_action_degrade.xml" value="0.2685" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/a1.xml" value="0.36102564102564105" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_card_add_deck.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_card_create_edit.xml" value="0.33" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_card_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_card_edit.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_consulta.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_decks.xml" value="0.3592592592592593" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_dialog_estudo.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_estudo.xml" value="0.2876712328767123" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_estudo_adjetivos.xml" value="0.1260293591120659" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_estudo_adverbios.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_estudo_antes_comecar.xml" value="0.23608316566063045" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_estudo_estado_ser.xml" value="0.21262458471760798" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_estudo_introducao.xml" value="0.22805312601230968" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_estudo_oracoes_relativas.xml" value="0.24814945364821994" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_estudo_ordem_sentenca.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_estudo_particulas_forth.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_estudo_particulas_second.xml" value="0.1" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_estudo_particulas_third.xml" value="0.1" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_estudo_recursos.xml" value="0.12374758305501846" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_estudo_verbos_basico.xml" value="0.22055137844611528" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_estudo_verbos_negativo.xml" value="0.2827309236947791" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_estudo_verbos_passado.xml" value="0.19485192360918904" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_estudo_verbos_transitivo.xml" value="0.3342830009496676" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_first_estudo.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_flashcard_session.xml" value="0.33" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_flashcard_statistics.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_flashcards.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_hiragana.xml" value="0.2140468227424749" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_kanji_estudo.xml" value="0.13693833884458276" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_katakana.xml" value="0.2391304347826087" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_show_cards.xml" value="0.30808080808080807" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_show_decks.xml" value="0.14767932489451477" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_sistema_escrita_estudo.xml" value="0.20253164556962025" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_treino.xml" value="0.36102564102564105" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_treino_answer.xml" value="0.22465753424657534" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_treino_session.xml" value="0.33" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_treino_statistics.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/activity_tutorial.xml" value="0.1" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/dialog_deck.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/dialog_flashcard.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/dialog_treino.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/fragment_first.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/fragment_second.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/fragment_third.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/list_card.xml" value="0.33" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/list_consulta.xml" value="0.22864583333333333" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/list_deck.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/list_flashcard.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/list_stats_flashcard.xml" value="0.18802083333333333" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/layout/main.xml" value="2.5142857142857142" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/menu/menu_edit_card.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/menu/menu_search.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.196" />
+        <entry key="..\:/AndStudio/GachiApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1485" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

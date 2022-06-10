@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/mainBlue"
+        android:orientation="vertical"
+        tools:context=".activity.flashcard.TreinoStatisticsActivity">
+
+        <TextView
+            android:id="@+id/textTitleTreinoStat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/gradient_medium"
+            android:paddingTop="20dp"
+            android:paddingBottom="20dp"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/view2"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/background_light" />
+
+        <TextView
+            android:id="@+id/textCorrectTreinoStat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/darkerBlue"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/dividerCorrect"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/background_light" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvCorrectTreinoStat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:nestedScrollingEnabled="false">
+
+        </androidx.recyclerview.widget.RecyclerView>
+
+        <View
+            android:id="@+id/dividerIncorrect2"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/background_light" />
+
+        <TextView
+            android:id="@+id/textIncorrectTreinoStat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/darkerBlue"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/dividerIncorrect"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/background_light" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvIncorrectTreinoStat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:nestedScrollingEnabled="false" />
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>
