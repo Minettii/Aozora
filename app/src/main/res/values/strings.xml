@@ -81,13 +81,13 @@
 
 
     <!-- TEXTS -->
-//0
+    //0
     <string name="textTutorial">
         Nesta página...
     </string>
-//
+    //
 
-//1
+    //1
     <string name="textEstudo1">
         <font color="#0F305C"><big><b><u>Introdução aos Estudos</u></b></big></font>\n\n
 
@@ -118,9 +118,9 @@ Sobre os decks, enquanto você pode treinar qualquer deck, eu recomendo que prim
 
 É isso, no próximo tópico, \"2.Recursos Úteis\", você verá recomendações de materias que podem auxiliar seu aprendizado e a partir dos próximos tópicos já iniciará o estudo da língua japonesa. Boa sorte e se esforce nos estudos!
     </string>
-//
+    //
 
-//2
+    //2
     <!--hyperlink below-->
     <string name="textEstudo2">
         <font color="#0F305C"><big><b><u>Recursos Úteis para o estudo da Língua Japonesa</u></b></big></font>\n\n
@@ -191,9 +191,9 @@ A maioria desses recursos podem ser acessados offline após serem baixados e cas
 
     Este aplicativo possui diversos conteúdos interessantes para o estudo da língua japonesa. Vale a pena citar a função \"Estudar\" dos temas \"Hiragana\", \"Katakana\" e \"Kanji\", onde após selecionar um caractere é possível ver uma animação mostrando como é feita sua escrita, além de também possuir a opção de você mesmo desenhar o caractere seguindo os passos que o aplicativo indica, de maneira a treinar sua escrita.
     </string>
-//
+    //
 
-//3
+    //3
     <string name="textEstudo3">
         Este guia explica a gramática japonesa em um processo sistemático,passo-a-passo, por meio de
         explicações que são focadas em como fazer sentido não de um ponto de vista da língua portuguesa, mas de um ponto de vista da língua japonesa.\n\n
@@ -260,9 +260,9 @@ A maioria desses recursos podem ser acessados offline após serem baixados e cas
         logo de cara, apenas siga em frente e consulte novamente quando você ver mais exemplos. Isto permitirá que você consiga um melhor senso
         de como é usado em vários contextos diferentes.
     </string>
-//
+    //
 
-//4
+    //4
     <string name="textEstudo4">
         <font color="#00008B"><big><b><u>Os Alfabetos</u></b></big></font>\n\n
 
@@ -301,9 +301,9 @@ A maioria desses recursos podem ser acessados offline após serem baixados e cas
         pronúncia, especialmente porque esta pode mudar dependendo do contexto ou do dialeto. A única tentativa para se aproximar mais da
         pronúncia natural é ter um senso geral de entonação, através de escutas cuidadosas de japoneses nativos e a prática.
     </string>
-//
+    //
 
-//5
+    //5
     <string name="textEstudo5a">
         <font color="#00008B"><big><b><u>O que é Hiragana?</u></b></big></font>\n\n
 
@@ -438,9 +438,9 @@ A maioria desses recursos podem ser acessados offline após serem baixados e cas
         Há algumas raras exceções quando um som vogal /e/ é estendido por um「え」ou um som vogal /o/ é estendido por um「お」. Alguns exemplos
         são「おねえさん」、「おおい」、e 「おおきい」. Preste bastante atenção nestas exceções, já que não são muitas.
     </string>
-//
+    //
 
-//6
+    //6
     <string name="textEstudo6a">
         <font color="#00008B"><big><b><u>O que é Katakana?</u></b></big></font>\n\n
 
@@ -526,9 +526,9 @@ A maioria desses recursos podem ser acessados offline após serem baixados e cas
         palavra em katakana é derivada do Inglês.
     </string>
     <!--table KataExamples-->
-//
+    //
 
-//7
+    //7
     <string name="textEstudo7">
         <font color="#0F305C"><big><b><u>O que é Kanji?</u></b></big></font>\n\n
 
@@ -627,9 +627,9 @@ A maioria desses recursos podem ser acessados offline após serem baixados e cas
         palavras possuem formas diferentes. Tente este pequeno exercício: Oi, momes moc tosad as apvalras sitsecra de ofarm rinrecota, vêco
         aandi dope me renetden?" Coreano faz isto porquê há caracteres o suficiente para criar palavras distintas e de formas diferentes. Japonês também consegue isto com o uso dos kanjis, sem eles, o leitor provavelmente será forçado a parar muito frequentemente para adivinhar qual palavra está sendo usada pelo contexto.
     </string>
-//
+    //
 
-//8
+    //8
     <string name="textEstudo8">
         <font color="#0F305C"><big><b><u>Usando 「だ」 para declarar algo</u></b></big></font>\n\n
 
@@ -698,9 +698,9 @@ A maioria desses recursos podem ser acessados offline após serem baixados e cas
         das conjugações que aprendemos nesta seção.
     </string>
     <!--table State-of-being-->
-//
+    //
 
-//9
+    //9
     <string name="textEstudo9">
         <font color="#0F305C"><big><b><u>Definindo funções gramaticais com partículas</u></b></big></font>\n\n
 
@@ -812,9 +812,9 @@ A maioria desses recursos podem ser acessados offline após serem baixados e cas
         para trazer um novo assunto à conversa. Este é o porquê de, em orações longas, é comum separar o assunto com vírgulas para remover
         qualquer ambigüidade sobre qual parte da oração o assunto se refere.
     </string>
-//
+    //
 
-//10
+    //10
     <string name="textEstudo10a">
         <font color="#0F305C"><big><b><u>Propriedades dos Adjetivos</u></b></big></font>\n\n
 
@@ -931,9 +931,9 @@ A maioria desses recursos podem ser acessados offline após serem baixados e cas
         （２）　彼は<font color="#008000">かっこよかった</font>！\n
         - Ele estava muito bonito!
     </string>
-//
+    //
 
-//1
+    //1
     <string name="textEstudo11">
         <font color="#0F305C"><big><b><u>Apresentando os verbos</u></b></big></font>\n\n
 
@@ -997,9 +997,9 @@ A maioria desses recursos podem ser acessados offline após serem baixados e cas
         <font color="#0F305C"><big><b><u>verbos-u iru/eru agrupados (aproximadamente) por nível</u></b></big></font>
     </string>
     <!--tableVerbsBasic-->
-//
+    //
 
-//12
+    //12
     <string name="textEstudo12a">
         <font color="#0F305C"><big><b><u>Verbos negativos</u></b></big></font>\n\n
 
@@ -1056,9 +1056,9 @@ A maioria desses recursos podem ser acessados offline após serem baixados e cas
         （５）　私は買わない。- Não compro.\n
         （６）　猫はいない。- Não há gato.
     </string>
-//
+    //
 
-//13
+    //13
     <string name="textEstudo13a">
         <font color="#0F305C"><big><b><u>Mudando verbos para o pretérito</u></b></big></font>\n\n
 
@@ -1142,9 +1142,9 @@ A maioria desses recursos podem ser acessados offline após serem baixados e cas
         （６）　猫は<font color="#008000">いなかった</font>。\n
         - Não havia gato. (lit: Sobre o gato, não existia.)
     </string>
-//
+    //
 
-//14
+    //14
     <string name="textEstudo14" tools:ignore="TypographyEllipsis">
         <font color="#0F305C"><big><b><u>Partículas usadas com verbos</u></b></big></font>\n\n
 
@@ -1342,9 +1342,9 @@ A maioria desses recursos podem ser acessados offline após serem baixados e cas
         Erro:　日本語<font color="#008000"><s>をは</s></font>、習う。\n
         - [Isso é incorreto.]
     </string>
-//
+    //
 
-//15
+    //15
     <string name="textEstudo15a">
         <font color="#0F305C"><big><b><u>Verbos Transitivos e Intransitivos</u></b></big></font>\n\n
 
@@ -1378,9 +1378,9 @@ A maioria desses recursos podem ser acessados offline após serem baixados e cas
         A única vez que você pode usar a partícula 「を」 para verbos intransitivos é quando uma localização for o objeto direto de um verbo que expresse movimento como foi resumidamente descrito na seção anterior.\n
         （１）　部屋<font color="#008000">を</font>出た。- Eu deixei a sala./Eu saí da sala.
     </string>
-//
+    //
 
-//16
+    //16
     <string name="textEstudo16" tools:ignore="TypographyEllipsis">
         <font color="#0F305C"><big><b><u>Tratando verbos e o estado-de-ser como adjetivos</u></b></big></font>\n\n
 
@@ -1430,9 +1430,9 @@ A maioria desses recursos podem ser acessados offline após serem baixados e cas
         （４）　<font color="#008000">晩ご飯を食べなかった</font>人は、<font color="#008000">映画で見た</font>銀行に行った。\n
         - A Pessoa que não comeu o jantar foi para o banco que ela viu no filme.\n\n
     </string>
-//
+    //
 
-//17
+    //17
     <string name="textEstudo17">
         <font color="#0F305C"><big><b><u>Ordem das Sentenças Japonesas</u></b></big></font>\n\n
 
@@ -1459,9 +1459,9 @@ A maioria desses recursos podem ser acessados offline após serem baixados e cas
         Sentenças completas (orações subordinadas) podem ser usadas para modificar substantivos para criar sentenças com orações subordinadas agrupadas. (Exceto por sentenças que terminem com o estado-de-ser 「だ」)\n
         Exemplo: <font color="#008000">お弁当を食べた</font>学生が公園に行った。
     </string>
-//
+    //
 
-//18
+    //18
     <string name="textEstudo18a">
         <font color="#0F305C"><big><b><u>As últimas três partículas (Não!)</u></b></big></font>\n\n
 
@@ -1793,9 +1793,9 @@ A maioria desses recursos podem ser acessados offline após serem baixados e cas
 
         Não se preocupe se você está completamente confuso agora, você verá diversos exemplos ao longo do caminho. Uma vez que você pega o sentido de como tudo funciona, é melhor o português pois o dobro e triplas estruturas negativas podem ficar bem confusas como no exemplo 3. Entretanto, no japonês é uma expressão perfeitamente comum, como você vai começar a notar uma vez que você se familiarizar com o japonês.
     </string>
-//
+    //
 
-//19
+    //19
     <string name="textEstudo19">
         <font color="#0F305C"><big><b><u>Propriedades dos Advérbios</u></b></big></font>\n\n
 
@@ -1864,9 +1864,9 @@ A maioria desses recursos podem ser acessados offline após serem baixados e cas
         3. 図書館の中では、<font color="#008000">静かに</font>する。\n
         Dentro da biblioteca, [nós] fazemos as coisas em <font color="#008000">silêncio</font>.
     </string>
-//
+    //
 
-//20
+    //20
     <string name="textEstudo20">
         <font color="#0F305C"><big><b><u>Partículas que finalizam a sentença</u></b></big></font>\n\n
 
@@ -2041,6 +2041,10 @@ A maioria desses recursos podem ser acessados offline após serem baixados e cas
 
     <string name="tutoTeclado">
         Para que seja possível criar e editar cartões neste aplicativo com textos em japonês, é altamente recomendável que seja usado um teclado que suporte a língua japonesa. Na seção \"Estudos\", no tópico \"2. Recursos Úteis\", é mostrado como baixar e configurar o Gboard, o teclado do Google, que permite utilizar tanto a língua japonesa quanto a língua portuguesa para digitar.
+    </string>
+
+    <string name = "textUff" >
+        Este aplicativo foi desenvolvido por Rafael Minetti como parte do TCC do curso de Tecnologia em Sistemas de Computação, cursado pela <a href="https://www.uff.br/">Universidade Federal Fluminense</a>. Desenvolvido em 2022.
     </string>
 
 </resources>

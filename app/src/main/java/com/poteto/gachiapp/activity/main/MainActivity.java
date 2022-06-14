@@ -78,5 +78,9 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(this, FlashcardsActivity.class);
             startActivity(intent);
         }
+        if (id==binding.buttonSobre.getId()) {
+            Intent intent = new Intent(this, SobreActivity.class);
+            startActivity(intent);
+        }
     }
 }

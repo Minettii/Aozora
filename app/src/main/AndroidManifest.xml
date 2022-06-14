@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GachiApp">
         <activity
+            android:name=".activity.main.SobreActivity"
+            android:exported="false" />
+        <activity
             android:name=".activity.estudo.EstudoAntesComecarActivity"
             android:exported="false" />
         <activity
